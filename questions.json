@@ -1,0 +1,4174 @@
+{
+ "version": 1,
+ "subjects": {
+  "pharmaceutics": "Pharmaceutics",
+  "chemistry": "Pharma Chemistry (Organic)",
+  "physpharm": "Physical Pharmacy",
+  "micro": "Microbiology",
+  "engg": "Pharmaceutical Engineering",
+  "pharmacology": "Pharmacology Basics"
+ },
+ "note": "Original MCQs written for this bot plus the free-tier MCQs of pharma3sem.publicvm.com. Correct answer is \"correct\"; options are shuffled at send time.",
+ "questions": [
+  {
+   "id": "S301M01",
+   "subject": "chemistry",
+   "q": "The resonance energy of benzene obtained from heats of hydrogenation is about:",
+   "correct": "36 kcal/mol",
+   "wrong": [
+    "28.6 kcal/mol",
+    "49.8 kcal/mol",
+    "85.8 kcal/mol"
+   ],
+   "explain": "Expected 85.8 (3 x 28.6) minus observed 49.8 = about 36 kcal/mol.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S301M03",
+   "subject": "chemistry",
+   "q": "In nitration of benzene, the actual electrophile is:",
+   "correct": "NO2+",
+   "wrong": [
+    "NO2-",
+    "NO+",
+    "HNO3"
+   ],
+   "explain": "Conc. H2SO4 protonates HNO3, which loses water to form the nitronium ion NO2+.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S301M06",
+   "subject": "chemistry",
+   "q": "Which compound does NOT undergo Friedel-Crafts reaction?",
+   "correct": "Nitrobenzene",
+   "wrong": [
+    "Toluene",
+    "Anisole",
+    "Benzene"
+   ],
+   "explain": "-NO2 strongly deactivates the ring; nitrobenzene is even used as a solvent for FC reactions.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S301M08",
+   "subject": "chemistry",
+   "q": "Gammexane (lindane) is:",
+   "correct": "gamma isomer of hexachlorocyclohexane",
+   "wrong": [
+    "p,p'-DDT",
+    "N-chloro-p-toluenesulphonamide",
+    "o-sulphobenzimide"
+   ],
+   "explain": "Gamma-BHC (C6H6Cl6) is the active insecticidal isomer, used for scabies and lice.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S301M11",
+   "subject": "chemistry",
+   "q": "Number of pi electrons in the cyclopentadienyl anion and its nature is:",
+   "correct": "6, aromatic",
+   "wrong": [
+    "4, antiaromatic",
+    "5, non-aromatic",
+    "6, non-aromatic"
+   ],
+   "explain": "Planar, cyclic, conjugated with 6 pi electrons (n = 1).",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S301M13",
+   "subject": "chemistry",
+   "q": "Phenol on treatment with CHCl3 and aqueous NaOH followed by acidification gives:",
+   "correct": "Salicylaldehyde",
+   "wrong": [
+    "Salicylic acid",
+    "Benzaldehyde",
+    "Phenyl chloroformate"
+   ],
+   "explain": "Reimer-Tiemann reaction; the electrophile is dichlorocarbene.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S301M16",
+   "subject": "chemistry",
+   "q": "Arrange in decreasing order of basicity: (I) aniline, (II) p-toluidine, (III) p-nitroaniline, (IV) methylamine",
+   "correct": "IV > II > I > III",
+   "wrong": [
+    "II > IV > I > III",
+    "IV > I > II > III",
+    "I > II > IV > III"
+   ],
+   "explain": "Alkylamine most basic; EDG at para raises and NO2 lowers aniline's basicity.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S301M18",
+   "subject": "chemistry",
+   "q": "Fluorobenzene is best prepared from benzenediazonium salt by:",
+   "correct": "Balz-Schiemann reaction",
+   "wrong": [
+    "Sandmeyer reaction",
+    "Gattermann reaction",
+    "Heating with KF"
+   ],
+   "explain": "The diazonium fluoroborate (from HBF4) decomposes on heating to ArF.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S301M21",
+   "subject": "chemistry",
+   "q": "Which test is given by phenol with NaNO2 and conc. H2SO4 (green/blue colour, red on dilution)?",
+   "correct": "Liebermann's nitroso test",
+   "wrong": [
+    "Phthalein test",
+    "Carbylamine test",
+    "Molisch test"
+   ],
+   "explain": "Liebermann's test for phenols.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S301M23",
+   "subject": "chemistry",
+   "q": "Reichert-Meissl value is defined for how much fat?",
+   "correct": "5 g",
+   "wrong": [
+    "1 g",
+    "10 g",
+    "100 g"
+   ],
+   "explain": "RM value: ml of 0.1 N alkali for volatile water-soluble acids from 5 g fat.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S301M26",
+   "subject": "chemistry",
+   "q": "A fat with high saponification value contains mainly:",
+   "correct": "Short-chain fatty acids",
+   "wrong": [
+    "Long-chain fatty acids",
+    "Hydroxy fatty acids",
+    "Unsaponifiable matter"
+   ],
+   "explain": "SV is inversely proportional to mean molecular weight.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S301M28",
+   "subject": "chemistry",
+   "q": "Ester value is equal to:",
+   "correct": "Saponification value - acid value",
+   "wrong": [
+    "Acid value - saponification value",
+    "Saponification value + acid value",
+    "Iodine value - acid value"
+   ],
+   "explain": "Esters = total saponifiable minus free acids.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S301M31",
+   "subject": "chemistry",
+   "q": "Which antioxidant is NOT used to prevent rancidity of oils?",
+   "correct": "Sodium chloride",
+   "wrong": [
+    "BHA",
+    "BHT",
+    "Tocopherol"
+   ],
+   "explain": "BHA, BHT and tocopherol are antioxidants; NaCl is not.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S301M33",
+   "subject": "chemistry",
+   "q": "Which oil has the highest iodine value?",
+   "correct": "Linseed oil",
+   "wrong": [
+    "Coconut oil",
+    "Olive oil",
+    "Groundnut oil"
+   ],
+   "explain": "Linseed oil is rich in linolenic acid, a drying oil (IV above 170).",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S301M36",
+   "subject": "chemistry",
+   "q": "Catalytic air oxidation of naphthalene over V2O5 gives:",
+   "correct": "Phthalic anhydride",
+   "wrong": [
+    "1,4-Naphthoquinone",
+    "Benzoic acid",
+    "Maleic anhydride"
+   ],
+   "explain": "One ring is oxidised away leaving phthalic anhydride.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S301M38",
+   "subject": "chemistry",
+   "q": "Cyclopentanoperhydrophenanthrene nucleus is present in:",
+   "correct": "Cholesterol",
+   "wrong": [
+    "Morphine",
+    "Naproxen",
+    "Saccharin"
+   ],
+   "explain": "It is the steroid nucleus (cholesterol, hormones, cardiac glycosides).",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S301M41",
+   "subject": "chemistry",
+   "q": "Reduction of naphthalene with sodium and isoamyl alcohol gives:",
+   "correct": "Tetralin",
+   "wrong": [
+    "Decalin",
+    "1,4-Dihydronaphthalene",
+    "Naphthol"
+   ],
+   "explain": "Na/isoamyl alcohol (higher temp) gives 1,2,3,4-tetrahydronaphthalene; Na/ethanol gives 1,4-dihydro.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S301M43",
+   "subject": "chemistry",
+   "q": "Baeyer's strain theory predicted the most stable ring to be:",
+   "correct": "Cyclopentane",
+   "wrong": [
+    "Cyclopropane",
+    "Cyclobutane",
+    "Cyclohexane"
+   ],
+   "explain": "Cyclopentane has the smallest deviation (0 deg 44') for a planar ring.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S301M46",
+   "subject": "chemistry",
+   "q": "Cyclopropane reacts with HBr to give:",
+   "correct": "1-Bromopropane",
+   "wrong": [
+    "Bromocyclopropane",
+    "2-Bromopropane",
+    "1,3-Dibromopropane"
+   ],
+   "explain": "HBr opens the strained ring giving n-propyl bromide.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S301M48",
+   "subject": "chemistry",
+   "q": "Which statement about cyclohexane is correct?",
+   "correct": "Chair form has all bonds staggered",
+   "wrong": [
+    "It is planar with 120 deg angles",
+    "Boat form is more stable than chair",
+    "It has 9 axial hydrogens"
+   ],
+   "explain": "Chair: staggered bonds, no angle or torsional strain; 6 axial and 6 equatorial H.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S302M01",
+   "subject": "physpharm",
+   "q": "According to the pharmacopoeia, a drug that needs 30 to 100 parts of solvent to dissolve 1 part is described as:",
+   "correct": "Sparingly soluble",
+   "wrong": [
+    "Soluble",
+    "Slightly soluble",
+    "Very slightly soluble"
+   ],
+   "explain": "Sparingly soluble = 30-100 parts; soluble = 10-30; slightly soluble = 100-1000.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S302M03",
+   "subject": "physpharm",
+   "q": "The Hildebrand solubility parameter is the square root of:",
+   "correct": "Cohesive energy density",
+   "wrong": [
+    "Heat of fusion",
+    "Surface free energy",
+    "Molar refraction"
+   ],
+   "explain": "δ = [(ΔHv - RT)/V]^1/2 = (cohesive energy density)^1/2.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S302M06",
+   "subject": "physpharm",
+   "q": "A minimum-boiling azeotrope is formed by systems showing:",
+   "correct": "Large positive deviation",
+   "wrong": [
+    "Large negative deviation",
+    "Ideal behaviour",
+    "No vapour pressure"
+   ],
+   "explain": "Positive deviation gives a vapour pressure maximum and hence a boiling point minimum (e.g. ethanol-water).",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S302M08",
+   "subject": "physpharm",
+   "q": "Which system shows both upper and lower critical solution temperatures?",
+   "correct": "Nicotine-water",
+   "wrong": [
+    "Phenol-water",
+    "Triethylamine-water",
+    "Benzene-toluene"
+   ],
+   "explain": "Nicotine-water gives a closed-loop miscibility curve.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S302M11",
+   "subject": "physpharm",
+   "q": "The latent heat of vaporization of water at 100°C is about:",
+   "correct": "540 cal/g",
+   "wrong": [
+    "80 cal/g",
+    "334 cal/g",
+    "1000 cal/g"
+   ],
+   "explain": "About 540 cal/g (2257 J/g); 80 cal/g is the latent heat of fusion of ice.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S302M13",
+   "subject": "physpharm",
+   "q": "The critical temperature of water is about:",
+   "correct": "374°C",
+   "wrong": [
+    "100°C",
+    "218°C",
+    "647°C"
+   ],
+   "explain": "Water's critical point is about 374°C and 218 atm (647 K is the same temperature in kelvin, not °C).",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S302M16",
+   "subject": "physpharm",
+   "q": "Polymorphs that can convert reversibly into each other at a transition temperature are:",
+   "correct": "Enantiotropic",
+   "wrong": [
+    "Monotropic",
+    "Amorphous",
+    "Pseudopolymorphs"
+   ],
+   "explain": "Enantiotropic forms interconvert reversibly (e.g. sulfur); monotropic forms change only one way.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S302M18",
+   "subject": "physpharm",
+   "q": "The dipole moment of carbon dioxide is zero because it is:",
+   "correct": "Linear and symmetrical",
+   "wrong": [
+    "Non-polar in all bonds",
+    "Bent",
+    "Ionic"
+   ],
+   "explain": "The two C=O bond dipoles are equal and opposite in the linear molecule and cancel.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S302M21",
+   "subject": "physpharm",
+   "q": "The surface tension of water at 20°C is about:",
+   "correct": "72.8 dyne/cm",
+   "wrong": [
+    "22 dyne/cm",
+    "50 dyne/cm",
+    "100 dyne/cm"
+   ],
+   "explain": "Water ≈ 72.8 dyne/cm (mN/m) at 20°C.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S302M23",
+   "subject": "physpharm",
+   "q": "Which method is used to measure interfacial tension as well as surface tension?",
+   "correct": "du Noüy ring",
+   "wrong": [
+    "Capillary rise",
+    "Bubble counting",
+    "Melting point method"
+   ],
+   "explain": "The du Noüy ring can be pulled through the interface of two liquids; capillary rise cannot measure interfacial tension.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S302M26",
+   "subject": "physpharm",
+   "q": "According to Griffin's scale, w/o emulsifying agents have HLB values of about:",
+   "correct": "3-6",
+   "wrong": [
+    "1-3",
+    "8-18",
+    "15-18"
+   ],
+   "explain": "3-6 w/o emulsifiers; 8-18 o/w emulsifiers; 15-18 solubilisers.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S302M28",
+   "subject": "physpharm",
+   "q": "For a positively adsorbed surfactant, the Gibbs adsorption equation shows that:",
+   "correct": "dγ/dc is negative",
+   "wrong": [
+    "dγ/dc is positive",
+    "Surface excess is zero",
+    "Surface tension increases"
+   ],
+   "explain": "Γ = -(c/RT)(dγ/dc); positive Γ requires surface tension to fall with concentration.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S302M31",
+   "subject": "physpharm",
+   "q": "β-cyclodextrin contains how many glucose units?",
+   "correct": "7",
+   "wrong": [
+    "5",
+    "6",
+    "8"
+   ],
+   "explain": "α = 6, β = 7, γ = 8 glucose units.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S302M33",
+   "subject": "physpharm",
+   "q": "Urea and deoxycholic acid form which type of inclusion compound?",
+   "correct": "Channel lattice type",
+   "wrong": [
+    "Layer type",
+    "Clathrate",
+    "Molecular sieve"
+   ],
+   "explain": "They crystallise with long channels that hold guest molecules.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S302M36",
+   "subject": "physpharm",
+   "q": "In the Scatchard plot (r/Df vs r), the slope equals:",
+   "correct": "-K",
+   "wrong": [
+    "n",
+    "1/n",
+    "nK"
+   ],
+   "explain": "r/Df = nK - rK; slope -K, x-intercept n.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S302M38",
+   "subject": "physpharm",
+   "q": "Absorption of tetracycline is reduced by milk and antacids because of:",
+   "correct": "Chelation with Ca, Mg and Al ions",
+   "wrong": [
+    "Protein binding",
+    "Micelle formation",
+    "Increased gastric emptying"
+   ],
+   "explain": "Tetracyclines form poorly absorbed chelates with polyvalent metal ions.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S302M41",
+   "subject": "physpharm",
+   "q": "Maximum buffer capacity of a buffer of total concentration C is:",
+   "correct": "0.576 C",
+   "wrong": [
+    "0.25 C",
+    "0.5 C",
+    "2.303 C"
+   ],
+   "explain": "βmax = 2.303 C/4 = 0.576 C at pH = pKa.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S302M43",
+   "subject": "physpharm",
+   "q": "The main buffer system of blood plasma is:",
+   "correct": "Carbonic acid/bicarbonate",
+   "wrong": [
+    "Phosphate",
+    "Acetate",
+    "Borate"
+   ],
+   "explain": "H2CO3/HCO3- is the principal plasma buffer.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S302M46",
+   "subject": "physpharm",
+   "q": "The Liso value for uni-univalent electrolytes such as NaCl is about:",
+   "correct": "3.4",
+   "wrong": [
+    "1.9",
+    "2.0",
+    "4.3"
+   ],
+   "explain": "Liso ≈ 1.9 non-electrolytes, 2.0 weak electrolytes, 3.4 uni-univalent, 4.3 uni-divalent.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S302M48",
+   "subject": "physpharm",
+   "q": "The glass electrode suffers from alkaline (sodium) error at:",
+   "correct": "High pH (above about 10)",
+   "wrong": [
+    "Very low pH",
+    "Neutral pH",
+    "High temperature only"
+   ],
+   "explain": "At high pH and high Na+ the glass responds to sodium ions and reads pH too low.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S303M01",
+   "subject": "micro",
+   "q": "Ribosomes found in the cytoplasm of bacteria are of which type?",
+   "correct": "70S",
+   "wrong": [
+    "60S",
+    "90S",
+    "80S"
+   ],
+   "explain": "Prokaryotes have 70S ribosomes (50S + 30S); eukaryotic cytoplasmic ribosomes are 80S.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S303M03",
+   "subject": "micro",
+   "q": "In which phase of the growth curve is the generation time shortest and constant?",
+   "correct": "Log phase",
+   "wrong": [
+    "Stationary phase",
+    "Lag phase",
+    "Decline phase"
+   ],
+   "explain": "Cells divide at a constant maximum rate in the log (exponential) phase.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S303M06",
+   "subject": "micro",
+   "q": "Which microscope is the method of choice for demonstrating Treponema pallidum in a fresh specimen?",
+   "correct": "Dark field",
+   "wrong": [
+    "Scanning electron",
+    "Phase contrast",
+    "Bright field"
+   ],
+   "explain": "Treponema is too thin for bright field; dark field shows it as bright spirals on a dark background.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S303M08",
+   "subject": "micro",
+   "q": "Which method gives the viable count of bacteria?",
+   "correct": "Pour plate count",
+   "wrong": [
+    "Turbidimetry",
+    "Coulter counter",
+    "Petroff-Hausser chamber"
+   ],
+   "explain": "Only plate counts (CFU) measure living cells; the others count live and dead cells.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S303M11",
+   "subject": "micro",
+   "q": "In Gram staining, the step that differentiates Gram-positive from Gram-negative bacteria is:",
+   "correct": "Decolourisation with alcohol/acetone",
+   "wrong": [
+    "Safranin counterstain",
+    "Crystal violet",
+    "Gram's iodine"
+   ],
+   "explain": "Decolouriser removes the crystal violet-iodine complex only from Gram-negative cells.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S303M13",
+   "subject": "micro",
+   "q": "The biological indicator used to monitor moist heat sterilization is spores of:",
+   "correct": "Geobacillus stearothermophilus",
+   "wrong": [
+    "Bacillus atrophaeus",
+    "Bacillus pumilus",
+    "Clostridium sporogenes"
+   ],
+   "explain": "G. stearothermophilus spores are highly resistant to moist heat.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S303M16",
+   "subject": "micro",
+   "q": "The Bowie-Dick test is used to check:",
+   "correct": "Air removal and steam penetration in an autoclave",
+   "wrong": [
+    "Radiation dose",
+    "Ethylene oxide concentration",
+    "Filter integrity"
+   ],
+   "explain": "Bowie-Dick test pack shows uniform colour change only if air is removed properly.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S303M18",
+   "subject": "micro",
+   "q": "Ethylene oxide kills microorganisms mainly by:",
+   "correct": "Alkylation of proteins and nucleic acids",
+   "wrong": [
+    "Protein coagulation by heat",
+    "Formation of thymine dimers",
+    "Oxidation"
+   ],
+   "explain": "EtO is an alkylating agent acting on -SH, -NH2, -OH and -COOH groups.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S303M21",
+   "subject": "micro",
+   "q": "The cell wall of fungi is mainly composed of:",
+   "correct": "Chitin and glucans",
+   "wrong": [
+    "Teichoic acid",
+    "Cellulose only",
+    "Peptidoglycan"
+   ],
+   "explain": "Fungal walls contain chitin and glucans; peptidoglycan is bacterial.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S303M23",
+   "subject": "micro",
+   "q": "Influenza virus for vaccine production is traditionally grown in the:",
+   "correct": "Allantoic cavity of embryonated eggs",
+   "wrong": [
+    "Brain of mice",
+    "Yolk sac",
+    "Chorioallantoic membrane"
+   ],
+   "explain": "Influenza virus is grown in the allantoic cavity of embryonated hen's eggs.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S303M26",
+   "subject": "micro",
+   "q": "A disinfectant with a high concentration exponent (e.g. phenol, n = 6) means:",
+   "correct": "Dilution greatly reduces its activity",
+   "wrong": [
+    "It is sporicidal",
+    "It is unaffected by organic matter",
+    "Dilution has little effect on activity"
+   ],
+   "explain": "Activity falls by 2^n when concentration is halved; for n = 6 that is 64-fold.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S303M28",
+   "subject": "micro",
+   "q": "The membrane pore size used in the membrane filtration method of sterility testing is:",
+   "correct": "0.45 µm",
+   "wrong": [
+    "1.2 µm",
+    "0.22 µm",
+    "0.1 µm"
+   ],
+   "explain": "Pharmacopoeias specify a membrane of nominal pore size not greater than 0.45 µm for the sterility test.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S303M31",
+   "subject": "micro",
+   "q": "A HEPA filter removes at least what percentage of 0.3 µm particles?",
+   "correct": "99.97%",
+   "wrong": [
+    "100%",
+    "95%",
+    "99%"
+   ],
+   "explain": "HEPA filters are rated at 99.97% efficiency for 0.3 µm particles.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S303M33",
+   "subject": "micro",
+   "q": "The recommended air velocity of unidirectional airflow in a Grade A zone (EU GMP guidance) is about:",
+   "correct": "0.36-0.54 m/s",
+   "wrong": [
+    "5 m/s",
+    "0.05-0.1 m/s",
+    "1.5-2.0 m/s"
+   ],
+   "explain": "EU GMP Annex 1 guidance value is 0.36-0.54 m/s at the working position.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S303M36",
+   "subject": "micro",
+   "q": "Vitamin B12 is assayed microbiologically using:",
+   "correct": "Lactobacillus leichmannii",
+   "wrong": [
+    "Bacillus subtilis",
+    "Staphylococcus aureus",
+    "Escherichia coli"
+   ],
+   "explain": "L. leichmannii requires B12 for growth; its growth is proportional to B12 content.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S303M38",
+   "subject": "micro",
+   "q": "The main advantage of the turbidimetric assay over the cylinder-plate method is:",
+   "correct": "Shorter incubation time",
+   "wrong": [
+    "No reference standard needed",
+    "No test organism needed",
+    "Works with coloured samples"
+   ],
+   "explain": "Turbidimetric assays need only about 3-4 h incubation versus 16-18 h for plates.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S303M41",
+   "subject": "micro",
+   "q": "Benzoic acid is an effective preservative only at acidic pH because:",
+   "correct": "Only its unionised form is antimicrobial",
+   "wrong": [
+    "It degrades in alkaline pH",
+    "It reacts with water",
+    "It precipitates at neutral pH"
+   ],
+   "explain": "Weak acid preservatives act in the unionised form, which predominates below their pKa (about 4.2).",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S303M43",
+   "subject": "micro",
+   "q": "Which organism is NOT among the standard challenge organisms in the preservative efficacy test?",
+   "correct": "Clostridium sporogenes",
+   "wrong": [
+    "Pseudomonas aeruginosa",
+    "Aspergillus brasiliensis",
+    "Candida albicans"
+   ],
+   "explain": "Challenge organisms are S. aureus, P. aeruginosa, E. coli (oral), C. albicans and A. brasiliensis; C. sporogenes is used in sterility test controls.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S303M46",
+   "subject": "micro",
+   "q": "Which is a continuous (established) cell line widely used for recombinant protein production?",
+   "correct": "CHO",
+   "wrong": [
+    "Primary monkey kidney cells",
+    "WI-38",
+    "MRC-5"
+   ],
+   "explain": "Chinese hamster ovary (CHO) cells are immortal and used for monoclonal antibodies and other biologics.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S303M48",
+   "subject": "micro",
+   "q": "Animal cell cultures are commonly incubated in an atmosphere containing:",
+   "correct": "5% CO2 in humidified air",
+   "wrong": [
+    "10% hydrogen",
+    "100% nitrogen",
+    "Pure oxygen"
+   ],
+   "explain": "5% CO2 maintains the bicarbonate-buffered pH of the medium at about 7.2-7.4.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S304M01",
+   "subject": "engg",
+   "q": "Reynolds number is the ratio of:",
+   "correct": "Inertial forces to viscous forces",
+   "wrong": [
+    "Viscous forces to gravity forces",
+    "Pressure forces to inertial forces",
+    "Surface tension to viscous forces"
+   ],
+   "explain": "Re = Duρ/μ = inertial force / viscous force; it is dimensionless.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S304M03",
+   "subject": "engg",
+   "q": "The coefficient of discharge of a venturimeter is about:",
+   "correct": "0.98",
+   "wrong": [
+    "0.61",
+    "0.75",
+    "1.25"
+   ],
+   "explain": "Venturimeter has very little loss (Cd ≈ 0.98); an orifice meter has Cd ≈ 0.61 due to vena contracta and eddies.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S304M06",
+   "subject": "engg",
+   "q": "Kick's law of size reduction is most applicable to:",
+   "correct": "Coarse crushing",
+   "wrong": [
+    "Fine grinding",
+    "Micronization",
+    "Colloid milling"
+   ],
+   "explain": "Kick's law (energy ∝ size reduction ratio) fits coarse crushing; Rittinger's law fits fine grinding.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S304M08",
+   "subject": "engg",
+   "q": "For efficient grinding, a ball mill should be operated at:",
+   "correct": "About one-half to three-fourth of critical speed",
+   "wrong": [
+    "Above the critical speed",
+    "Exactly at the critical speed",
+    "Less than one-tenth of critical speed"
+   ],
+   "explain": "At critical speed balls centrifuge with the wall; at too low speed they only roll. Cascading at 50-75% of critical speed gives maximum impact.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S304M11",
+   "subject": "engg",
+   "q": "As per IP, a 'very fine powder' is one in which all particles pass through sieve number:",
+   "correct": "120",
+   "wrong": [
+    "44",
+    "60",
+    "85"
+   ],
+   "explain": "IP grades: coarse 10/44, moderately coarse 22/60, moderately fine 44/85, fine 85, very fine 120.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S304M13",
+   "subject": "engg",
+   "q": "Fourier's law is the basic law of heat transfer by:",
+   "correct": "Conduction",
+   "wrong": [
+    "Convection",
+    "Radiation",
+    "Condensation"
+   ],
+   "explain": "dQ/dθ = -kA dt/dx describes conduction through a solid.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S304M16",
+   "subject": "engg",
+   "q": "Economy of an evaporator is defined as:",
+   "correct": "Kg of water evaporated per kg of steam supplied",
+   "wrong": [
+    "Kg of steam used per hour",
+    "Kg of product per hour",
+    "Heat transfer area per kg of feed"
+   ],
+   "explain": "Economy = kg vapour produced / kg steam fed.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S304M18",
+   "subject": "engg",
+   "q": "Backward feeding in a multiple effect evaporator is preferred when:",
+   "correct": "Feed is cold and the concentrate is viscous",
+   "wrong": [
+    "Feed is hot and concentrate is thermolabile",
+    "Feed contains volatile oil",
+    "Only one effect is used"
+   ],
+   "explain": "In backward feed the most concentrated (viscous) liquid is in the hottest first effect, where viscosity is lowest.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S304M21",
+   "subject": "engg",
+   "q": "Steam distillation is based on the principle that:",
+   "correct": "Immiscible liquids boil when the sum of their vapour pressures equals atmospheric pressure",
+   "wrong": [
+    "Miscible liquids follow Raoult's law",
+    "Molecules travel less than mean free path",
+    "Pressure is suddenly released"
+   ],
+   "explain": "Each immiscible liquid exerts its own vapour pressure, so the mixture boils below 100 °C.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S304M23",
+   "subject": "engg",
+   "q": "Flash distillation is also known as:",
+   "correct": "Equilibrium distillation",
+   "wrong": [
+    "Destructive distillation",
+    "Molecular distillation",
+    "Azeotropic distillation"
+   ],
+   "explain": "Vapour and liquid formed by sudden pressure release are in equilibrium and are separated.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S304M26",
+   "subject": "engg",
+   "q": "The second falling rate period of drying is controlled by:",
+   "correct": "Movement of moisture from inside to the surface (diffusion/capillary)",
+   "wrong": [
+    "Air velocity only",
+    "Heat of fusion",
+    "Radiation from the walls"
+   ],
+   "explain": "In this period internal moisture movement, not external conditions, limits the rate.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S304M28",
+   "subject": "engg",
+   "q": "The triple point of water is at:",
+   "correct": "0.0098 °C and 4.58 mm Hg",
+   "wrong": [
+    "0 °C and 760 mm Hg",
+    "100 °C and 760 mm Hg",
+    "-40 °C and 1 mm Hg"
+   ],
+   "explain": "Below 4.58 mm Hg ice sublimes directly without melting.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S304M31",
+   "subject": "engg",
+   "q": "Tumbling blenders such as double cone and V-blender mix powders mainly by:",
+   "correct": "Diffusive mixing",
+   "wrong": [
+    "Kneading",
+    "Turbulent mixing",
+    "Molecular diffusion of liquids"
+   ],
+   "explain": "Random movement of individual particles over freshly formed surfaces during tumbling is diffusive mixing.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S304M33",
+   "subject": "engg",
+   "q": "A propeller mixer mainly produces:",
+   "correct": "Axial flow",
+   "wrong": [
+    "Radial flow",
+    "Only tangential flow",
+    "No flow"
+   ],
+   "explain": "Propellers move liquid parallel to the shaft (up and down), suitable for low-viscosity liquids.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S304M36",
+   "subject": "engg",
+   "q": "According to Poiseuille's equation, flow rate through a capillary is proportional to:",
+   "correct": "r⁴",
+   "wrong": [
+    "r",
+    "r²",
+    "r³"
+   ],
+   "explain": "dV/dt = πr⁴ΔP / 8ηL; doubling pore radius increases flow 16 times.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S304M38",
+   "subject": "engg",
+   "q": "The pore size of a membrane filter used for sterile filtration is:",
+   "correct": "0.22 µm",
+   "wrong": [
+    "1 µm",
+    "5 µm",
+    "10 µm"
+   ],
+   "explain": "0.22 µm (or 0.2 µm) membranes retain bacteria; 0.45 µm is used for clarification.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S304M41",
+   "subject": "engg",
+   "q": "A rotary drum filter is a:",
+   "correct": "Continuous vacuum filter",
+   "wrong": [
+    "Batch pressure filter",
+    "Batch gravity filter",
+    "Membrane cartridge filter"
+   ],
+   "explain": "The drum rotates continuously through filtration, washing, drying and discharge zones under vacuum.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S304M43",
+   "subject": "engg",
+   "q": "Relative centrifugal force (RCF) in terms of radius r (cm) and speed N (rpm) is:",
+   "correct": "1.118 × 10⁻⁵ r N²",
+   "wrong": [
+    "1.118 × 10⁻⁵ r² N",
+    "9.81 r N",
+    "r N / 60"
+   ],
+   "explain": "RCF = ω²r/g = 1.118 × 10⁻⁵ r N²; it increases with the square of speed.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S304M46",
+   "subject": "engg",
+   "q": "In cathodic protection by the sacrificial anode method, the anode commonly used is:",
+   "correct": "Zinc or magnesium",
+   "wrong": [
+    "Copper",
+    "Platinum",
+    "Lead"
+   ],
+   "explain": "A more active metal (Zn, Mg) corrodes in place of the protected steel.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "S304M48",
+   "subject": "engg",
+   "q": "Pitting corrosion of stainless steel is mainly promoted by:",
+   "correct": "Chloride ions",
+   "wrong": [
+    "Nitrogen gas",
+    "Distilled water",
+    "Glycerin"
+   ],
+   "explain": "Chlorides break down the passive film at local points, forming deep pits.",
+   "src": "bpharm3-free"
+  },
+  {
+   "id": "N001",
+   "subject": "pharmaceutics",
+   "q": "Which of the following is an official dosage form meant for application to the eye?",
+   "correct": "Ophthalmic ointment",
+   "wrong": [
+    "Liniment",
+    "Lotion",
+    "Paint"
+   ],
+   "explain": "Ophthalmic ointments are sterile semisolids for the eye; liniments and paints are for skin.",
+   "src": "new"
+  },
+  {
+   "id": "N002",
+   "subject": "pharmaceutics",
+   "q": "Hard gelatin capsule size with the LARGEST capacity among these is:",
+   "correct": "000",
+   "wrong": [
+    "0",
+    "2",
+    "5"
+   ],
+   "explain": "Capsule sizes run 000 (largest) to 5 (smallest).",
+   "src": "new"
+  },
+  {
+   "id": "N003",
+   "subject": "pharmaceutics",
+   "q": "Suppository base that melts at body temperature is:",
+   "correct": "Theobroma oil (cocoa butter)",
+   "wrong": [
+    "Polyethylene glycol",
+    "Glycerinated gelatin",
+    "Polysorbate 80"
+   ],
+   "explain": "Cocoa butter melts around 30–35 °C; PEG and glycero-gelatin dissolve in body fluids instead.",
+   "src": "new"
+  },
+  {
+   "id": "N004",
+   "subject": "pharmaceutics",
+   "q": "Displacement value is used in the preparation of:",
+   "correct": "Suppositories",
+   "wrong": [
+    "Tablets",
+    "Emulsions",
+    "Ointments only"
+   ],
+   "explain": "It tells how many grams of base one gram of drug displaces in a suppository mould.",
+   "src": "new"
+  },
+  {
+   "id": "N005",
+   "subject": "pharmaceutics",
+   "q": "Which is an example of a hydrocarbon (oleaginous) ointment base?",
+   "correct": "White soft paraffin",
+   "wrong": [
+    "Hydrophilic ointment",
+    "Polyethylene glycol ointment",
+    "Emulsifying wax"
+   ],
+   "explain": "Hydrocarbon bases like soft paraffin are occlusive and water-insoluble.",
+   "src": "new"
+  },
+  {
+   "id": "N006",
+   "subject": "pharmaceutics",
+   "q": "A liquid oral preparation containing a high concentration of sucrose (about 66.7% w/w) is a:",
+   "correct": "Syrup",
+   "wrong": [
+    "Elixir",
+    "Linctus only",
+    "Mixture"
+   ],
+   "explain": "Simple Syrup IP contains 66.7% w/w sucrose.",
+   "src": "new"
+  },
+  {
+   "id": "N007",
+   "subject": "pharmaceutics",
+   "q": "Elixirs are best described as:",
+   "correct": "Clear, sweetened hydroalcoholic liquids for oral use",
+   "wrong": [
+    "Viscous preparations for cough",
+    "Suspensions of insoluble drugs",
+    "Oily solutions for injection"
+   ],
+   "explain": "Elixirs are clear, pleasantly flavoured hydro-alcoholic solutions.",
+   "src": "new"
+  },
+  {
+   "id": "N008",
+   "subject": "pharmaceutics",
+   "q": "Which test is NOT an official quality control test for uncoated tablets?",
+   "correct": "Viscosity",
+   "wrong": [
+    "Disintegration",
+    "Weight variation",
+    "Friability"
+   ],
+   "explain": "Viscosity is for liquids; tablets get weight variation, disintegration, friability, hardness etc.",
+   "src": "new"
+  },
+  {
+   "id": "N009",
+   "subject": "pharmaceutics",
+   "q": "Acceptable friability limit for most conventional compressed tablets is a weight loss of NOT more than:",
+   "correct": "1%",
+   "wrong": [
+    "5%",
+    "10%",
+    "0.01%"
+   ],
+   "explain": "Pharmacopoeial friability limit is ≤1% weight loss.",
+   "src": "new"
+  },
+  {
+   "id": "N010",
+   "subject": "pharmaceutics",
+   "q": "Lubricant commonly used in tablet manufacture is:",
+   "correct": "Magnesium stearate",
+   "wrong": [
+    "Starch paste",
+    "Lactose",
+    "Microcrystalline cellulose"
+   ],
+   "explain": "Magnesium stearate reduces die-wall friction; starch paste is a binder, lactose a diluent.",
+   "src": "new"
+  },
+  {
+   "id": "N011",
+   "subject": "pharmaceutics",
+   "q": "Which excipient is mainly used as a tablet disintegrant?",
+   "correct": "Sodium starch glycolate",
+   "wrong": [
+    "Magnesium stearate",
+    "Talc",
+    "Acacia"
+   ],
+   "explain": "Sodium starch glycolate is a superdisintegrant that swells in water.",
+   "src": "new"
+  },
+  {
+   "id": "N012",
+   "subject": "pharmaceutics",
+   "q": "Capping and lamination of tablets are mainly due to:",
+   "correct": "Air entrapped in granules",
+   "wrong": [
+    "Excess lubricant only",
+    "Too much colour",
+    "Low humidity storage"
+   ],
+   "explain": "Entrapped air and too many fines cause the tablet top to split off (capping) or layer (lamination).",
+   "src": "new"
+  },
+  {
+   "id": "N013",
+   "subject": "pharmaceutics",
+   "q": "Mottling in tablets refers to:",
+   "correct": "Unequal distribution of colour",
+   "wrong": [
+    "Splitting of the top",
+    "Sticking to punches",
+    "Chipping of edges"
+   ],
+   "explain": "Mottling = uneven colour on the tablet surface.",
+   "src": "new"
+  },
+  {
+   "id": "N014",
+   "subject": "pharmaceutics",
+   "q": "The process of applying a sugar coat in several steps begins with:",
+   "correct": "Sealing",
+   "wrong": [
+    "Polishing",
+    "Colouring",
+    "Smoothing"
+   ],
+   "explain": "Sugar coating order: sealing → subcoating → smoothing → colouring → polishing → printing.",
+   "src": "new"
+  },
+  {
+   "id": "N015",
+   "subject": "pharmaceutics",
+   "q": "Enteric coating is designed to:",
+   "correct": "Resist gastric fluid and dissolve in the intestine",
+   "wrong": [
+    "Dissolve in the mouth",
+    "Increase gastric irritation",
+    "Mask colour only"
+   ],
+   "explain": "Enteric polymers (e.g. CAP) stay intact at stomach pH and dissolve at intestinal pH.",
+   "src": "new"
+  },
+  {
+   "id": "N016",
+   "subject": "pharmaceutics",
+   "q": "Cellulose acetate phthalate is used as:",
+   "correct": "Enteric coating polymer",
+   "wrong": [
+    "Disintegrant",
+    "Glidant",
+    "Sweetener"
+   ],
+   "explain": "CAP is a classic enteric coating material.",
+   "src": "new"
+  },
+  {
+   "id": "N017",
+   "subject": "pharmaceutics",
+   "q": "Which is a glidant used in tablet formulation?",
+   "correct": "Colloidal silicon dioxide",
+   "wrong": [
+    "Povidone",
+    "Sodium lauryl sulphate",
+    "Dicalcium phosphate"
+   ],
+   "explain": "Colloidal silica (Aerosil) improves powder flow.",
+   "src": "new"
+  },
+  {
+   "id": "N018",
+   "subject": "pharmaceutics",
+   "q": "Water for Injection is mainly prepared by:",
+   "correct": "Distillation or reverse osmosis",
+   "wrong": [
+    "Simple filtration",
+    "Boiling for 5 minutes",
+    "Chlorination"
+   ],
+   "explain": "WFI is made by distillation (or RO with suitable treatment) and must be pyrogen-free.",
+   "src": "new"
+  },
+  {
+   "id": "N019",
+   "subject": "pharmaceutics",
+   "q": "Pyrogens in parenterals are mainly:",
+   "correct": "Bacterial endotoxins (lipopolysaccharides)",
+   "wrong": [
+    "Viral proteins",
+    "Fungal spores only",
+    "Plastic particles"
+   ],
+   "explain": "Pyrogens are mostly lipopolysaccharide endotoxins from gram-negative bacteria.",
+   "src": "new"
+  },
+  {
+   "id": "N020",
+   "subject": "pharmaceutics",
+   "q": "The LAL test detects:",
+   "correct": "Bacterial endotoxins",
+   "wrong": [
+    "Particulate matter",
+    "Sterility",
+    "Leakage of ampoules"
+   ],
+   "explain": "Limulus Amebocyte Lysate gels in the presence of endotoxin.",
+   "src": "new"
+  },
+  {
+   "id": "N021",
+   "subject": "pharmaceutics",
+   "q": "Isotonic sodium chloride solution has a concentration of about:",
+   "correct": "0.9% w/v",
+   "wrong": [
+    "9% w/v",
+    "0.09% w/v",
+    "5% w/v"
+   ],
+   "explain": "Normal saline 0.9% w/v is isotonic with blood.",
+   "src": "new"
+  },
+  {
+   "id": "N022",
+   "subject": "pharmaceutics",
+   "q": "Freezing point of blood and lachrymal fluid is about:",
+   "correct": "−0.52 °C",
+   "wrong": [
+    "0 °C",
+    "−1.86 °C",
+    "−0.25 °C"
+   ],
+   "explain": "Isotonic solutions show a freezing point depression of 0.52 °C.",
+   "src": "new"
+  },
+  {
+   "id": "N023",
+   "subject": "pharmaceutics",
+   "q": "Which is a primary emulsifier of natural origin?",
+   "correct": "Acacia",
+   "wrong": [
+    "Polysorbate 80",
+    "Sodium lauryl sulphate",
+    "Span 80"
+   ],
+   "explain": "Acacia (gum arabic) is a natural hydrophilic colloid emulsifier.",
+   "src": "new"
+  },
+  {
+   "id": "N024",
+   "subject": "pharmaceutics",
+   "q": "The 'dry gum' method of emulsion preparation uses oil : water : gum ratio for fixed oils of:",
+   "correct": "4 : 2 : 1",
+   "wrong": [
+    "2 : 2 : 1",
+    "3 : 2 : 1",
+    "1 : 2 : 4"
+   ],
+   "explain": "Continental (dry gum) method for fixed oils uses 4 parts oil, 2 water, 1 gum.",
+   "src": "new"
+  },
+  {
+   "id": "N025",
+   "subject": "pharmaceutics",
+   "q": "Creaming of an emulsion is:",
+   "correct": "Reversible separation of dispersed globules",
+   "wrong": [
+    "Irreversible coalescence",
+    "Phase inversion",
+    "Microbial spoilage"
+   ],
+   "explain": "Creaming is reversible by shaking; cracking (coalescence) is irreversible.",
+   "src": "new"
+  },
+  {
+   "id": "N026",
+   "subject": "pharmaceutics",
+   "q": "Cracking of an emulsion means:",
+   "correct": "Irreversible coalescence of globules",
+   "wrong": [
+    "Upward movement of globules",
+    "Colour change",
+    "Change from o/w to w/o"
+   ],
+   "explain": "Cracking is the irreversible breaking of the emulsion.",
+   "src": "new"
+  },
+  {
+   "id": "N027",
+   "subject": "pharmaceutics",
+   "q": "Flocculated suspensions characteristically:",
+   "correct": "Form a loose sediment that redisperses easily",
+   "wrong": [
+    "Form a hard cake",
+    "Settle very slowly as individual particles",
+    "Never sediment"
+   ],
+   "explain": "Flocs settle fast but give a fluffy, easily redispersible sediment.",
+   "src": "new"
+  },
+  {
+   "id": "N028",
+   "subject": "pharmaceutics",
+   "q": "Caking in suspensions is associated with:",
+   "correct": "Deflocculated systems",
+   "wrong": [
+    "Flocculated systems",
+    "High viscosity only",
+    "Use of preservatives"
+   ],
+   "explain": "Deflocculated particles settle slowly but pack into a hard, non-redispersible cake.",
+   "src": "new"
+  },
+  {
+   "id": "N029",
+   "subject": "pharmaceutics",
+   "q": "Which suspending agent is a clay?",
+   "correct": "Bentonite",
+   "wrong": [
+    "Methyl cellulose",
+    "Tragacanth",
+    "Sodium alginate"
+   ],
+   "explain": "Bentonite is a colloidal clay; the others are cellulose or natural gums.",
+   "src": "new"
+  },
+  {
+   "id": "N030",
+   "subject": "pharmaceutics",
+   "q": "Lyophilization is also called:",
+   "correct": "Freeze drying",
+   "wrong": [
+    "Spray drying",
+    "Tray drying",
+    "Fluid bed drying"
+   ],
+   "explain": "Lyophilization removes water by sublimation from the frozen state.",
+   "src": "new"
+  },
+  {
+   "id": "N031",
+   "subject": "pharmaceutics",
+   "q": "Prescription abbreviation 'b.i.d.' means:",
+   "correct": "Twice a day",
+   "wrong": [
+    "Three times a day",
+    "At bedtime",
+    "Before meals"
+   ],
+   "explain": "b.i.d. = bis in die (twice daily); t.i.d. thrice; h.s. at bedtime; a.c. before meals.",
+   "src": "new"
+  },
+  {
+   "id": "N032",
+   "subject": "pharmaceutics",
+   "q": "Prescription abbreviation 'a.c.' means:",
+   "correct": "Before meals",
+   "wrong": [
+    "After meals",
+    "As needed",
+    "Immediately"
+   ],
+   "explain": "a.c. = ante cibum (before food); p.c. = after food.",
+   "src": "new"
+  },
+  {
+   "id": "N033",
+   "subject": "pharmaceutics",
+   "q": "Young's formula for child dose is:",
+   "correct": "Age/(Age + 12) × adult dose",
+   "wrong": [
+    "Age/20 × adult dose",
+    "Weight(kg)/70 × adult dose",
+    "(Age + 1)/24 × adult dose"
+   ],
+   "explain": "Young's rule = Age ÷ (Age + 12) × adult dose.",
+   "src": "new"
+  },
+  {
+   "id": "N034",
+   "subject": "pharmaceutics",
+   "q": "Clark's rule calculates child dose from:",
+   "correct": "Body weight",
+   "wrong": [
+    "Age in years",
+    "Body surface area only",
+    "Age in months"
+   ],
+   "explain": "Clark's rule = weight (lb)/150 × adult dose.",
+   "src": "new"
+  },
+  {
+   "id": "N035",
+   "subject": "pharmaceutics",
+   "q": "Dilling's formula for child dose uses:",
+   "correct": "Age/20 × adult dose",
+   "wrong": [
+    "Age/(Age+12) × adult dose",
+    "(Age+1)/24 × adult dose",
+    "Weight/150 × adult dose"
+   ],
+   "explain": "Dilling's rule = Age ÷ 20 × adult dose.",
+   "src": "new"
+  },
+  {
+   "id": "N036",
+   "subject": "pharmaceutics",
+   "q": "Incompatibility seen as a visible change like precipitation or colour change is called:",
+   "correct": "Physical/chemical incompatibility",
+   "wrong": [
+    "Therapeutic incompatibility",
+    "Pharmacokinetic interaction",
+    "Idiosyncrasy"
+   ],
+   "explain": "Visible changes are physical or chemical incompatibilities; therapeutic ones relate to effects.",
+   "src": "new"
+  },
+  {
+   "id": "N037",
+   "subject": "pharmaceutics",
+   "q": "Effervescent granules contain citric acid, tartaric acid and:",
+   "correct": "Sodium bicarbonate",
+   "wrong": [
+    "Calcium carbonate",
+    "Magnesium stearate",
+    "Sodium chloride"
+   ],
+   "explain": "The acids react with sodium bicarbonate in water to release CO2.",
+   "src": "new"
+  },
+  {
+   "id": "N038",
+   "subject": "pharmaceutics",
+   "q": "Which type of glass is used for most aqueous parenteral containers needing best chemical resistance?",
+   "correct": "Type I borosilicate",
+   "wrong": [
+    "Type II treated soda lime",
+    "Type III soda lime",
+    "Type NP"
+   ],
+   "explain": "Type I borosilicate glass has the highest hydrolytic resistance.",
+   "src": "new"
+  },
+  {
+   "id": "N039",
+   "subject": "pharmaceutics",
+   "q": "Moist heat sterilization in an autoclave is commonly done at:",
+   "correct": "121 °C for 15 min",
+   "wrong": [
+    "160 °C for 2 h",
+    "100 °C for 5 min",
+    "60 °C for 1 h"
+   ],
+   "explain": "Standard autoclave cycle: 121 °C, 15 psi, 15 minutes.",
+   "src": "new"
+  },
+  {
+   "id": "N040",
+   "subject": "pharmaceutics",
+   "q": "Dry heat sterilization (hot air oven) typical cycle is:",
+   "correct": "160 °C for 2 hours",
+   "wrong": [
+    "121 °C for 15 minutes",
+    "80 °C for 30 minutes",
+    "200 °C for 5 minutes"
+   ],
+   "explain": "Hot air oven: 160 °C for 2 h (or 170 °C for 1 h).",
+   "src": "new"
+  },
+  {
+   "id": "N041",
+   "subject": "chemistry",
+   "q": "Number of π electrons in benzene is:",
+   "correct": "6",
+   "wrong": [
+    "4",
+    "8",
+    "10"
+   ],
+   "explain": "Benzene has three C=C double bonds = 6 π electrons, satisfying 4n+2 with n=1.",
+   "src": "new"
+  },
+  {
+   "id": "N042",
+   "subject": "chemistry",
+   "q": "Hybridization of each carbon atom in benzene is:",
+   "correct": "sp2",
+   "wrong": [
+    "sp3",
+    "sp",
+    "dsp2"
+   ],
+   "explain": "Each ring carbon is sp2 with one unhybridized p orbital in the π cloud.",
+   "src": "new"
+  },
+  {
+   "id": "N043",
+   "subject": "chemistry",
+   "q": "C–C bond length in benzene is about:",
+   "correct": "1.39 Å",
+   "wrong": [
+    "1.54 Å",
+    "1.34 Å",
+    "1.20 Å"
+   ],
+   "explain": "All six bonds are equal at ~1.39 Å, between single (1.54) and double (1.34).",
+   "src": "new"
+  },
+  {
+   "id": "N044",
+   "subject": "chemistry",
+   "q": "The electrophile in nitration of benzene is:",
+   "correct": "Nitronium ion (NO2+)",
+   "wrong": [
+    "Nitrite ion (NO2−)",
+    "Nitrate ion (NO3−)",
+    "Nitrosonium ion (NO+)"
+   ],
+   "explain": "HNO3 + H2SO4 generate NO2+, which attacks the ring.",
+   "src": "new"
+  },
+  {
+   "id": "N045",
+   "subject": "chemistry",
+   "q": "Friedel–Crafts alkylation uses which catalyst?",
+   "correct": "Anhydrous AlCl3",
+   "wrong": [
+    "Pd/C",
+    "NaOH",
+    "Zn/HCl"
+   ],
+   "explain": "Lewis acid AlCl3 generates the carbocation electrophile from alkyl halide.",
+   "src": "new"
+  },
+  {
+   "id": "N046",
+   "subject": "chemistry",
+   "q": "Which group is a meta director?",
+   "correct": "–NO2",
+   "wrong": [
+    "–OH",
+    "–NH2",
+    "–OCH3"
+   ],
+   "explain": "Electron-withdrawing –NO2 deactivates the ring and directs meta.",
+   "src": "new"
+  },
+  {
+   "id": "N047",
+   "subject": "chemistry",
+   "q": "Halogens on benzene are:",
+   "correct": "Deactivating but ortho/para directing",
+   "wrong": [
+    "Activating and meta directing",
+    "Activating and ortho/para directing",
+    "Deactivating and meta directing"
+   ],
+   "explain": "Halogens withdraw by induction (deactivate) but donate by resonance (o/p).",
+   "src": "new"
+  },
+  {
+   "id": "N048",
+   "subject": "chemistry",
+   "q": "Which is the most acidic?",
+   "correct": "p-Nitrophenol",
+   "wrong": [
+    "Phenol",
+    "p-Cresol",
+    "p-Aminophenol"
+   ],
+   "explain": "–NO2 stabilizes the phenoxide ion by resonance, increasing acidity.",
+   "src": "new"
+  },
+  {
+   "id": "N049",
+   "subject": "chemistry",
+   "q": "Phenol is more acidic than ethanol because:",
+   "correct": "Phenoxide ion is resonance stabilized",
+   "wrong": [
+    "Phenol has more hydrogen atoms",
+    "Ethanol is aromatic",
+    "Phenol is a gas"
+   ],
+   "explain": "The negative charge of phenoxide delocalizes into the ring.",
+   "src": "new"
+  },
+  {
+   "id": "N050",
+   "subject": "chemistry",
+   "q": "Reaction of phenol with CHCl3 and NaOH giving salicylaldehyde is:",
+   "correct": "Reimer–Tiemann reaction",
+   "wrong": [
+    "Kolbe reaction",
+    "Cannizzaro reaction",
+    "Sandmeyer reaction"
+   ],
+   "explain": "Reimer–Tiemann adds –CHO ortho via dichlorocarbene.",
+   "src": "new"
+  },
+  {
+   "id": "N051",
+   "subject": "chemistry",
+   "q": "Kolbe–Schmitt reaction of sodium phenoxide with CO2 gives:",
+   "correct": "Salicylic acid",
+   "wrong": [
+    "Benzoic acid",
+    "Picric acid",
+    "Phthalic acid"
+   ],
+   "explain": "Sodium phenoxide + CO2 (pressure, heat) → salicylic acid, precursor of aspirin.",
+   "src": "new"
+  },
+  {
+   "id": "N052",
+   "subject": "chemistry",
+   "q": "Which is the strongest base?",
+   "correct": "Methylamine",
+   "wrong": [
+    "Aniline",
+    "p-Nitroaniline",
+    "Ammonia"
+   ],
+   "explain": "Alkyl group pushes electrons to N; in aniline the lone pair is delocalized into the ring.",
+   "src": "new"
+  },
+  {
+   "id": "N053",
+   "subject": "chemistry",
+   "q": "Aniline is a weaker base than ammonia because:",
+   "correct": "Its lone pair is delocalized into the benzene ring",
+   "wrong": [
+    "It has more hydrogen atoms",
+    "It is more soluble in water",
+    "It contains oxygen"
+   ],
+   "explain": "Resonance reduces lone-pair availability on nitrogen.",
+   "src": "new"
+  },
+  {
+   "id": "N054",
+   "subject": "chemistry",
+   "q": "Benzene diazonium chloride is prepared from aniline using:",
+   "correct": "NaNO2 and HCl at 0–5 °C",
+   "wrong": [
+    "Sn and HCl",
+    "KMnO4",
+    "Br2 water"
+   ],
+   "explain": "Diazotization needs cold nitrous acid (NaNO2 + HCl).",
+   "src": "new"
+  },
+  {
+   "id": "N055",
+   "subject": "chemistry",
+   "q": "Conversion of diazonium salt to chlorobenzene using CuCl is:",
+   "correct": "Sandmeyer reaction",
+   "wrong": [
+    "Gattermann–Koch reaction",
+    "Wurtz reaction",
+    "Clemmensen reduction"
+   ],
+   "explain": "Sandmeyer uses Cu(I) salts to replace –N2+ by Cl, Br or CN.",
+   "src": "new"
+  },
+  {
+   "id": "N056",
+   "subject": "chemistry",
+   "q": "Benzoic acid is more acidic than acetic acid mainly due to:",
+   "correct": "The electron-withdrawing sp2 phenyl group",
+   "wrong": [
+    "Hydrogen bonding with water only",
+    "Higher molecular weight",
+    "Presence of a methyl group"
+   ],
+   "explain": "pKa benzoic ≈ 4.2 vs acetic ≈ 4.76; the phenyl group stabilizes the carboxylate.",
+   "src": "new"
+  },
+  {
+   "id": "N057",
+   "subject": "chemistry",
+   "q": "Saponification value of a fat is the mg of KOH required to saponify:",
+   "correct": "1 g of fat",
+   "wrong": [
+    "100 g of fat",
+    "1 kg of fat",
+    "10 g of fat"
+   ],
+   "explain": "Higher saponification value means shorter average fatty acid chain.",
+   "src": "new"
+  },
+  {
+   "id": "N058",
+   "subject": "chemistry",
+   "q": "Iodine value of an oil indicates its:",
+   "correct": "Degree of unsaturation",
+   "wrong": [
+    "Free fatty acid content",
+    "Molecular weight only",
+    "Peroxide content"
+   ],
+   "explain": "Iodine value = g of iodine absorbed by 100 g oil; more double bonds = higher value.",
+   "src": "new"
+  },
+  {
+   "id": "N059",
+   "subject": "chemistry",
+   "q": "Acid value of a fat measures:",
+   "correct": "Free fatty acids present",
+   "wrong": [
+    "Unsaturation",
+    "Hydroxyl groups",
+    "Ester content"
+   ],
+   "explain": "Acid value = mg KOH to neutralize free fatty acids in 1 g fat.",
+   "src": "new"
+  },
+  {
+   "id": "N060",
+   "subject": "chemistry",
+   "q": "Rancidity of fats is mainly due to:",
+   "correct": "Oxidation and hydrolysis",
+   "wrong": [
+    "Hydrogenation",
+    "Polymerization of glycerol",
+    "Esterification"
+   ],
+   "explain": "Oxidative and hydrolytic rancidity produce off-odour aldehydes and acids.",
+   "src": "new"
+  },
+  {
+   "id": "N061",
+   "subject": "chemistry",
+   "q": "Reichert–Meissl value measures:",
+   "correct": "Steam-volatile water-soluble fatty acids",
+   "wrong": [
+    "Unsaturated fatty acids",
+    "Hydroxyl value",
+    "Saponifiable matter"
+   ],
+   "explain": "It is high for butter, used to detect adulteration.",
+   "src": "new"
+  },
+  {
+   "id": "N062",
+   "subject": "chemistry",
+   "q": "Naphthalene contains how many fused benzene rings?",
+   "correct": "2",
+   "wrong": [
+    "3",
+    "4",
+    "1"
+   ],
+   "explain": "Naphthalene = two fused rings; anthracene and phenanthrene have three.",
+   "src": "new"
+  },
+  {
+   "id": "N063",
+   "subject": "chemistry",
+   "q": "Which polynuclear hydrocarbon is a known carcinogen?",
+   "correct": "Benzo[a]pyrene",
+   "wrong": [
+    "Naphthalene",
+    "Biphenyl",
+    "Toluene"
+   ],
+   "explain": "Benzo[a]pyrene from smoke and tar is a potent carcinogen.",
+   "src": "new"
+  },
+  {
+   "id": "N064",
+   "subject": "chemistry",
+   "q": "Baeyer strain theory explains stability of:",
+   "correct": "Cycloalkanes",
+   "wrong": [
+    "Alkenes",
+    "Aromatic rings",
+    "Carbonyl compounds"
+   ],
+   "explain": "Baeyer related angle strain to deviation from 109.5° in planar rings.",
+   "src": "new"
+  },
+  {
+   "id": "N065",
+   "subject": "chemistry",
+   "q": "Most stable conformation of cyclohexane is:",
+   "correct": "Chair",
+   "wrong": [
+    "Boat",
+    "Twist-boat",
+    "Half-chair"
+   ],
+   "explain": "The chair form has no angle strain and staggered C–H bonds.",
+   "src": "new"
+  },
+  {
+   "id": "N066",
+   "subject": "chemistry",
+   "q": "Benzaldehyde with conc. NaOH undergoes which reaction (no α-hydrogen)?",
+   "correct": "Cannizzaro reaction",
+   "wrong": [
+    "Aldol condensation",
+    "Perkin reaction",
+    "Wurtz reaction"
+   ],
+   "explain": "Aldehydes without α-H disproportionate to alcohol + carboxylate (Cannizzaro).",
+   "src": "new"
+  },
+  {
+   "id": "N067",
+   "subject": "chemistry",
+   "q": "Cyclopropane reacts with H2/Ni to give:",
+   "correct": "Propane",
+   "wrong": [
+    "Propene",
+    "Cyclopropene",
+    "Butane"
+   ],
+   "explain": "Its high ring strain allows ring opening by hydrogenation.",
+   "src": "new"
+  },
+  {
+   "id": "N068",
+   "subject": "chemistry",
+   "q": "Sachse–Mohr theory proposed that larger rings are:",
+   "correct": "Strain-free, puckered (non-planar)",
+   "wrong": [
+    "Planar and strained",
+    "Aromatic",
+    "Unstable above six carbons"
+   ],
+   "explain": "Rings like cyclohexane pucker into strain-free shapes.",
+   "src": "new"
+  },
+  {
+   "id": "N069",
+   "subject": "chemistry",
+   "q": "Picric acid is chemically:",
+   "correct": "2,4,6-Trinitrophenol",
+   "wrong": [
+    "2,4,6-Trinitrotoluene",
+    "2,4-Dinitrophenol",
+    "p-Nitrobenzoic acid"
+   ],
+   "explain": "Three –NO2 groups make picric acid strongly acidic.",
+   "src": "new"
+  },
+  {
+   "id": "N070",
+   "subject": "chemistry",
+   "q": "Oxidation of toluene with KMnO4 gives:",
+   "correct": "Benzoic acid",
+   "wrong": [
+    "Benzyl alcohol only",
+    "Phenol",
+    "Benzene"
+   ],
+   "explain": "Alkaline KMnO4 oxidizes the side chain to –COOH.",
+   "src": "new"
+  },
+  {
+   "id": "N071",
+   "subject": "chemistry",
+   "q": "Aspirin is synthesized by acetylation of:",
+   "correct": "Salicylic acid",
+   "wrong": [
+    "Phenol",
+    "Benzoic acid",
+    "Aniline"
+   ],
+   "explain": "Salicylic acid + acetic anhydride → acetylsalicylic acid.",
+   "src": "new"
+  },
+  {
+   "id": "N072",
+   "subject": "chemistry",
+   "q": "Paracetamol is chemically:",
+   "correct": "N-acetyl-p-aminophenol",
+   "wrong": [
+    "Acetylsalicylic acid",
+    "p-Aminobenzoic acid",
+    "Phenyl salicylate"
+   ],
+   "explain": "Paracetamol (acetaminophen) = 4-hydroxyacetanilide.",
+   "src": "new"
+  },
+  {
+   "id": "N073",
+   "subject": "chemistry",
+   "q": "Huckel aromatic among these is:",
+   "correct": "Cyclopentadienyl anion",
+   "wrong": [
+    "Cyclobutadiene",
+    "Cyclooctatetraene (tub)",
+    "Cyclopentadiene"
+   ],
+   "explain": "The anion has 6 π electrons in a planar ring; cyclobutadiene is antiaromatic.",
+   "src": "new"
+  },
+  {
+   "id": "N074",
+   "subject": "chemistry",
+   "q": "Clemmensen reduction converts a ketone to an alkane using:",
+   "correct": "Zn(Hg) and conc. HCl",
+   "wrong": [
+    "NaBH4",
+    "LiAlH4 only",
+    "H2/Pd and quinoline"
+   ],
+   "explain": "Clemmensen = zinc amalgam + HCl; Wolff–Kishner uses hydrazine/base.",
+   "src": "new"
+  },
+  {
+   "id": "N075",
+   "subject": "chemistry",
+   "q": "Sulphonation of benzene uses:",
+   "correct": "Fuming sulphuric acid (SO3)",
+   "wrong": [
+    "Dilute H2SO4",
+    "SO2 gas only",
+    "Sodium sulphite"
+   ],
+   "explain": "SO3 in oleum is the electrophile; the reaction is reversible.",
+   "src": "new"
+  },
+  {
+   "id": "N076",
+   "subject": "chemistry",
+   "q": "Anthracene and phenanthrene are:",
+   "correct": "Isomers with formula C14H10",
+   "wrong": [
+    "Isomers with formula C10H8",
+    "Identical compounds",
+    "Alkanes"
+   ],
+   "explain": "Both are three-ring PAHs, C14H10, differing in ring fusion (linear vs angular).",
+   "src": "new"
+  },
+  {
+   "id": "N077",
+   "subject": "chemistry",
+   "q": "Which is used in the synthesis of DDT along with chloral?",
+   "correct": "Chlorobenzene",
+   "wrong": [
+    "Phenol",
+    "Aniline",
+    "Nitrobenzene"
+   ],
+   "explain": "DDT forms from chlorobenzene + chloral in H2SO4.",
+   "src": "new"
+  },
+  {
+   "id": "N078",
+   "subject": "chemistry",
+   "q": "Bromination of phenol with bromine water gives:",
+   "correct": "2,4,6-Tribromophenol (white ppt)",
+   "wrong": [
+    "o-Bromophenol only",
+    "p-Bromophenol only",
+    "Bromobenzene"
+   ],
+   "explain": "–OH strongly activates; all ortho/para positions brominate.",
+   "src": "new"
+  },
+  {
+   "id": "N079",
+   "subject": "chemistry",
+   "q": "Nitrobenzene reduced with Sn/HCl gives:",
+   "correct": "Aniline",
+   "wrong": [
+    "Azobenzene",
+    "Phenol",
+    "Benzoic acid"
+   ],
+   "explain": "Acidic metal reduction converts –NO2 to –NH2.",
+   "src": "new"
+  },
+  {
+   "id": "N080",
+   "subject": "chemistry",
+   "q": "Hydrogenation of oils (as in vanaspati) mainly:",
+   "correct": "Converts unsaturated fats to saturated, raising melting point",
+   "wrong": [
+    "Adds iodine to the oil",
+    "Increases free fatty acids",
+    "Removes glycerol"
+   ],
+   "explain": "H2 with Ni adds across C=C bonds, hardening the oil.",
+   "src": "new"
+  },
+  {
+   "id": "N081",
+   "subject": "physpharm",
+   "q": "Henderson–Hasselbalch equation for a weak acid is:",
+   "correct": "pH = pKa + log([salt]/[acid])",
+   "wrong": [
+    "pH = pKa − log([salt]/[acid])",
+    "pH = pKb + log([acid]/[salt])",
+    "pH = log Ka"
+   ],
+   "explain": "For a weak acid buffer, pH = pKa + log [A−]/[HA].",
+   "src": "new"
+  },
+  {
+   "id": "N082",
+   "subject": "physpharm",
+   "q": "A buffer has maximum buffer capacity when:",
+   "correct": "pH = pKa",
+   "wrong": [
+    "pH = 7",
+    "pH = pKa + 2",
+    "Salt concentration is zero"
+   ],
+   "explain": "Capacity peaks when [salt] = [acid], i.e. pH = pKa.",
+   "src": "new"
+  },
+  {
+   "id": "N083",
+   "subject": "physpharm",
+   "q": "Surface tension is expressed in:",
+   "correct": "dyne/cm (or N/m)",
+   "wrong": [
+    "poise",
+    "dyne·cm²",
+    "g/cm³"
+   ],
+   "explain": "Surface tension is force per unit length.",
+   "src": "new"
+  },
+  {
+   "id": "N084",
+   "subject": "physpharm",
+   "q": "Surface tension of a liquid generally ____ with rise in temperature.",
+   "correct": "Decreases",
+   "wrong": [
+    "Increases",
+    "Stays constant",
+    "Doubles"
+   ],
+   "explain": "Higher temperature weakens intermolecular cohesion.",
+   "src": "new"
+  },
+  {
+   "id": "N085",
+   "subject": "physpharm",
+   "q": "Instrument used to measure surface tension by ring method:",
+   "correct": "du Noüy tensiometer",
+   "wrong": [
+    "Ostwald viscometer",
+    "Andreasen pipette",
+    "Abbe refractometer"
+   ],
+   "explain": "The du Noüy ring tensiometer measures force to pull a ring from the surface.",
+   "src": "new"
+  },
+  {
+   "id": "N086",
+   "subject": "physpharm",
+   "q": "HLB value range for o/w emulsifying agents is about:",
+   "correct": "8–18",
+   "wrong": [
+    "1–3",
+    "3–6",
+    "0–1"
+   ],
+   "explain": "Griffin scale: o/w emulsifiers ~8–18; w/o ~3–6.",
+   "src": "new"
+  },
+  {
+   "id": "N087",
+   "subject": "physpharm",
+   "q": "HLB range typical of antifoaming agents is:",
+   "correct": "1–3",
+   "wrong": [
+    "8–16",
+    "15–18",
+    "13–15"
+   ],
+   "explain": "Antifoams have very low HLB (1–3); solubilizers 15–18.",
+   "src": "new"
+  },
+  {
+   "id": "N088",
+   "subject": "physpharm",
+   "q": "Critical micelle concentration (CMC) is the concentration at which:",
+   "correct": "Surfactant molecules start forming micelles",
+   "wrong": [
+    "Surface tension rises sharply",
+    "Solution freezes",
+    "Surfactant precipitates"
+   ],
+   "explain": "Above CMC, added surfactant forms micelles and surface tension stays nearly constant.",
+   "src": "new"
+  },
+  {
+   "id": "N089",
+   "subject": "physpharm",
+   "q": "Spreading coefficient S must be ____ for a liquid to spread on another.",
+   "correct": "Positive",
+   "wrong": [
+    "Negative",
+    "Zero exactly",
+    "Infinite"
+   ],
+   "explain": "S = γ(sub) − (γ(liquid) + γ(interface)); spreading occurs when S > 0.",
+   "src": "new"
+  },
+  {
+   "id": "N090",
+   "subject": "physpharm",
+   "q": "The Gibbs adsorption equation relates surface excess to:",
+   "correct": "Change in surface tension with concentration",
+   "wrong": [
+    "Viscosity",
+    "Particle size",
+    "Partition coefficient"
+   ],
+   "explain": "Γ = −(c/RT)(dγ/dc).",
+   "src": "new"
+  },
+  {
+   "id": "N091",
+   "subject": "physpharm",
+   "q": "Freundlich adsorption isotherm is:",
+   "correct": "x/m = k·p^(1/n)",
+   "wrong": [
+    "PV = nRT",
+    "v = kC",
+    "log k = −Ea/2.303RT"
+   ],
+   "explain": "Freundlich: amount adsorbed per gram rises as a fractional power of pressure/concentration.",
+   "src": "new"
+  },
+  {
+   "id": "N092",
+   "subject": "physpharm",
+   "q": "Langmuir adsorption assumes:",
+   "correct": "Monolayer adsorption on uniform sites",
+   "wrong": [
+    "Multilayer adsorption",
+    "Adsorption increases forever with pressure",
+    "No equilibrium"
+   ],
+   "explain": "Langmuir model: one layer, identical sites, no interaction.",
+   "src": "new"
+  },
+  {
+   "id": "N093",
+   "subject": "physpharm",
+   "q": "Partition coefficient is the ratio of drug concentrations in:",
+   "correct": "Oil phase to aqueous phase at equilibrium",
+   "wrong": [
+    "Blood to urine",
+    "Solid to liquid",
+    "Stomach to intestine"
+   ],
+   "explain": "K = C(oil)/C(water); higher K = more lipophilic.",
+   "src": "new"
+  },
+  {
+   "id": "N094",
+   "subject": "physpharm",
+   "q": "Phase rule is expressed as:",
+   "correct": "F = C − P + 2",
+   "wrong": [
+    "F = C + P − 2",
+    "F = P − C + 2",
+    "F = C × P"
+   ],
+   "explain": "Gibbs phase rule: degrees of freedom = components − phases + 2.",
+   "src": "new"
+  },
+  {
+   "id": "N095",
+   "subject": "physpharm",
+   "q": "At the triple point of water, degrees of freedom are:",
+   "correct": "0",
+   "wrong": [
+    "1",
+    "2",
+    "3"
+   ],
+   "explain": "F = 1 − 3 + 2 = 0; it is invariant.",
+   "src": "new"
+  },
+  {
+   "id": "N096",
+   "subject": "physpharm",
+   "q": "Phenol–water system is an example of:",
+   "correct": "Partially miscible liquids with upper consolute temperature",
+   "wrong": [
+    "Completely miscible liquids",
+    "Immiscible liquids",
+    "Solid–solid eutectic"
+   ],
+   "explain": "Phenol and water become fully miscible above ~66.8 °C.",
+   "src": "new"
+  },
+  {
+   "id": "N097",
+   "subject": "physpharm",
+   "q": "Nicotine–water system shows:",
+   "correct": "Both upper and lower consolute temperatures",
+   "wrong": [
+    "Only upper consolute temperature",
+    "Complete miscibility always",
+    "No miscibility"
+   ],
+   "explain": "Nicotine–water forms a closed solubility loop.",
+   "src": "new"
+  },
+  {
+   "id": "N098",
+   "subject": "physpharm",
+   "q": "Triethylamine–water system shows a:",
+   "correct": "Lower consolute temperature",
+   "wrong": [
+    "Upper consolute temperature only",
+    "Eutectic point",
+    "Azeotrope only"
+   ],
+   "explain": "Triethylamine and water are miscible below about 18.5 °C.",
+   "src": "new"
+  },
+  {
+   "id": "N099",
+   "subject": "physpharm",
+   "q": "Colligative properties depend on:",
+   "correct": "Number of solute particles",
+   "wrong": [
+    "Nature of solute",
+    "Colour of solute",
+    "Molecular shape only"
+   ],
+   "explain": "Vapour pressure lowering, BP elevation, FP depression and osmotic pressure depend on particle count.",
+   "src": "new"
+  },
+  {
+   "id": "N100",
+   "subject": "physpharm",
+   "q": "Raoult's law states that partial vapour pressure of a component equals:",
+   "correct": "Its mole fraction × vapour pressure of pure component",
+   "wrong": [
+    "Its weight × temperature",
+    "Total pressure always",
+    "Concentration × gas constant"
+   ],
+   "explain": "p(A) = x(A) × p°(A) for an ideal solution.",
+   "src": "new"
+  },
+  {
+   "id": "N101",
+   "subject": "physpharm",
+   "q": "Solutions showing large positive deviation from Raoult's law can form:",
+   "correct": "Minimum boiling azeotropes",
+   "wrong": [
+    "Maximum boiling azeotropes",
+    "Ideal solutions",
+    "Solid solutions"
+   ],
+   "explain": "Ethanol–water (positive deviation) gives a minimum boiling azeotrope.",
+   "src": "new"
+  },
+  {
+   "id": "N102",
+   "subject": "physpharm",
+   "q": "Polymorphs of a drug differ in:",
+   "correct": "Crystal structure, solubility and melting point",
+   "wrong": [
+    "Chemical formula",
+    "Molecular weight",
+    "Elemental composition"
+   ],
+   "explain": "Same molecule, different crystal packing; metastable forms dissolve faster.",
+   "src": "new"
+  },
+  {
+   "id": "N103",
+   "subject": "physpharm",
+   "q": "Which polymorph of chloramphenicol palmitate is therapeutically more active?",
+   "correct": "Form B (metastable)",
+   "wrong": [
+    "Form A (stable)",
+    "Both equal",
+    "Neither"
+   ],
+   "explain": "Metastable form B dissolves faster and gives higher blood levels.",
+   "src": "new"
+  },
+  {
+   "id": "N104",
+   "subject": "physpharm",
+   "q": "Amorphous forms of drugs, compared with crystalline forms, usually have:",
+   "correct": "Higher solubility",
+   "wrong": [
+    "Lower solubility",
+    "Higher melting point",
+    "No dissolution"
+   ],
+   "explain": "No lattice energy to overcome, so they dissolve faster.",
+   "src": "new"
+  },
+  {
+   "id": "N105",
+   "subject": "physpharm",
+   "q": "Liquid crystals that respond to temperature are called:",
+   "correct": "Thermotropic",
+   "wrong": [
+    "Lyotropic",
+    "Smectic only",
+    "Amorphous"
+   ],
+   "explain": "Thermotropic change with temperature; lyotropic with solvent concentration.",
+   "src": "new"
+  },
+  {
+   "id": "N106",
+   "subject": "physpharm",
+   "q": "Smectic liquid crystals have molecules arranged in:",
+   "correct": "Layers (soap-like)",
+   "wrong": [
+    "Random order",
+    "Parallel rods without layers",
+    "Spirals only"
+   ],
+   "explain": "Smectic = layered; nematic = parallel without layers; cholesteric = twisted.",
+   "src": "new"
+  },
+  {
+   "id": "N107",
+   "subject": "physpharm",
+   "q": "Dielectric constant of water at 25 °C is about:",
+   "correct": "78.5",
+   "wrong": [
+    "2",
+    "24",
+    "1"
+   ],
+   "explain": "Water's high dielectric constant (~78.5) makes it a good polar solvent.",
+   "src": "new"
+  },
+  {
+   "id": "N108",
+   "subject": "physpharm",
+   "q": "Refractive index is measured with:",
+   "correct": "Abbe refractometer",
+   "wrong": [
+    "Polarimeter",
+    "pH meter",
+    "Stalagmometer"
+   ],
+   "explain": "Abbe refractometer measures refractive index; polarimeter measures optical rotation.",
+   "src": "new"
+  },
+  {
+   "id": "N109",
+   "subject": "physpharm",
+   "q": "Optical rotation is measured with a:",
+   "correct": "Polarimeter",
+   "wrong": [
+    "Refractometer",
+    "Colorimeter",
+    "Viscometer"
+   ],
+   "explain": "Polarimeter measures rotation of plane-polarized light by chiral molecules.",
+   "src": "new"
+  },
+  {
+   "id": "N110",
+   "subject": "physpharm",
+   "q": "Dipole moment is expressed in:",
+   "correct": "Debye units",
+   "wrong": [
+    "Poise",
+    "Dynes",
+    "Pascal"
+   ],
+   "explain": "1 Debye = 10⁻¹⁸ esu·cm.",
+   "src": "new"
+  },
+  {
+   "id": "N111",
+   "subject": "physpharm",
+   "q": "Hydrogen bonding is responsible for the:",
+   "correct": "High boiling point of water compared with H2S",
+   "wrong": [
+    "Inertness of noble gases",
+    "Colour of copper salts",
+    "Low melting point of metals"
+   ],
+   "explain": "Water boils at 100 °C vs H2S at about −60 °C because water molecules H-bond.",
+   "src": "new"
+  },
+  {
+   "id": "N112",
+   "subject": "physpharm",
+   "q": "Solubility of most solids in water ____ with temperature (endothermic dissolution).",
+   "correct": "Increases",
+   "wrong": [
+    "Decreases",
+    "Does not change",
+    "Becomes zero"
+   ],
+   "explain": "Endothermic dissolution is favoured by heat (Le Chatelier).",
+   "src": "new"
+  },
+  {
+   "id": "N113",
+   "subject": "physpharm",
+   "q": "Cosolvency means:",
+   "correct": "Increasing solubility of a drug by adding a water-miscible solvent",
+   "wrong": [
+    "Two drugs dissolving each other",
+    "Salting out",
+    "Complexation with metal"
+   ],
+   "explain": "E.g. ethanol, propylene glycol or glycerin added to water to dissolve a poorly soluble drug.",
+   "src": "new"
+  },
+  {
+   "id": "N114",
+   "subject": "physpharm",
+   "q": "Hydrotropy is solubilisation using:",
+   "correct": "High concentrations of salts like sodium benzoate",
+   "wrong": [
+    "Micelles only",
+    "Heat only",
+    "Change in pH only"
+   ],
+   "explain": "Hydrotropes (e.g. sodium benzoate, urea) increase aqueous solubility at high concentration.",
+   "src": "new"
+  },
+  {
+   "id": "N115",
+   "subject": "physpharm",
+   "q": "pH of a solution with [H+] = 1 × 10⁻⁴ M is:",
+   "correct": "4",
+   "wrong": [
+    "10",
+    "−4",
+    "0.0001"
+   ],
+   "explain": "pH = −log[H+] = 4.",
+   "src": "new"
+  },
+  {
+   "id": "N116",
+   "subject": "physpharm",
+   "q": "The common ion effect generally ____ the solubility of a sparingly soluble salt.",
+   "correct": "Decreases",
+   "wrong": [
+    "Increases",
+    "Does not affect",
+    "Doubles"
+   ],
+   "explain": "Adding a common ion shifts equilibrium toward the solid.",
+   "src": "new"
+  },
+  {
+   "id": "N117",
+   "subject": "physpharm",
+   "q": "Interfacial tension between water and mineral oil compared to surface tension of water is:",
+   "correct": "Lower",
+   "wrong": [
+    "Higher",
+    "Equal",
+    "Infinite"
+   ],
+   "explain": "Interfacial tensions are usually lower than surface tension of the more polar liquid.",
+   "src": "new"
+  },
+  {
+   "id": "N118",
+   "subject": "physpharm",
+   "q": "Contact angle of 0° means:",
+   "correct": "Complete wetting",
+   "wrong": [
+    "No wetting",
+    "Partial wetting",
+    "Hydrophobic surface"
+   ],
+   "explain": "θ = 0° = liquid spreads fully; θ = 180° = no wetting.",
+   "src": "new"
+  },
+  {
+   "id": "N119",
+   "subject": "physpharm",
+   "q": "Ionisation of a weak acid drug is greater at:",
+   "correct": "pH above its pKa",
+   "wrong": [
+    "pH below its pKa",
+    "pH equal to zero",
+    "Any pH equally"
+   ],
+   "explain": "Above pKa the ionized (A−) form predominates.",
+   "src": "new"
+  },
+  {
+   "id": "N120",
+   "subject": "physpharm",
+   "q": "Eutectic mixture example used in topical anaesthesia (EMLA) contains:",
+   "correct": "Lidocaine and prilocaine",
+   "wrong": [
+    "Camphor and menthol only",
+    "Aspirin and paracetamol",
+    "Urea and salicylic acid"
+   ],
+   "explain": "EMLA = Eutectic Mixture of Local Anaesthetics (lidocaine + prilocaine).",
+   "src": "new"
+  },
+  {
+   "id": "N121",
+   "subject": "micro",
+   "q": "Father of microbiology is generally considered:",
+   "correct": "Antonie van Leeuwenhoek",
+   "wrong": [
+    "Robert Koch",
+    "Edward Jenner",
+    "Alexander Fleming"
+   ],
+   "explain": "Leeuwenhoek first observed microbes with his simple microscope (17th century).",
+   "src": "new"
+  },
+  {
+   "id": "N122",
+   "subject": "micro",
+   "q": "Germ theory of disease and Koch's postulates were given by:",
+   "correct": "Robert Koch",
+   "wrong": [
+    "Louis Pasteur",
+    "Joseph Lister",
+    "Paul Ehrlich"
+   ],
+   "explain": "Koch's postulates link a specific microbe to a specific disease.",
+   "src": "new"
+  },
+  {
+   "id": "N123",
+   "subject": "micro",
+   "q": "Pasteurization was developed by:",
+   "correct": "Louis Pasteur",
+   "wrong": [
+    "Robert Koch",
+    "John Tyndall",
+    "Alexander Fleming"
+   ],
+   "explain": "Pasteur showed heating kills spoilage microbes in wine and milk.",
+   "src": "new"
+  },
+  {
+   "id": "N124",
+   "subject": "micro",
+   "q": "Gram-positive bacteria appear ____ after Gram staining.",
+   "correct": "Purple/violet",
+   "wrong": [
+    "Pink/red",
+    "Green",
+    "Colourless"
+   ],
+   "explain": "Thick peptidoglycan retains crystal violet–iodine complex.",
+   "src": "new"
+  },
+  {
+   "id": "N125",
+   "subject": "micro",
+   "q": "Mordant used in Gram staining is:",
+   "correct": "Gram's iodine",
+   "wrong": [
+    "Safranin",
+    "Crystal violet",
+    "Alcohol"
+   ],
+   "explain": "Iodine fixes crystal violet; alcohol decolourizes; safranin counterstains.",
+   "src": "new"
+  },
+  {
+   "id": "N126",
+   "subject": "micro",
+   "q": "Counterstain in Gram staining is:",
+   "correct": "Safranin",
+   "wrong": [
+    "Crystal violet",
+    "Malachite green",
+    "Methylene blue only"
+   ],
+   "explain": "Safranin colours decolourized gram-negative cells pink.",
+   "src": "new"
+  },
+  {
+   "id": "N127",
+   "subject": "micro",
+   "q": "Acid-fast staining (Ziehl–Neelsen) is used for:",
+   "correct": "Mycobacterium tuberculosis",
+   "wrong": [
+    "Escherichia coli",
+    "Staphylococcus aureus",
+    "Candida albicans"
+   ],
+   "explain": "Mycolic acid in the cell wall retains carbol fuchsin after acid-alcohol.",
+   "src": "new"
+  },
+  {
+   "id": "N128",
+   "subject": "micro",
+   "q": "Spore staining commonly uses:",
+   "correct": "Malachite green",
+   "wrong": [
+    "Nigrosin",
+    "Congo red",
+    "India ink only"
+   ],
+   "explain": "Schaeffer–Fulton method: malachite green with heat, safranin counterstain.",
+   "src": "new"
+  },
+  {
+   "id": "N129",
+   "subject": "micro",
+   "q": "India ink (negative staining) is used to demonstrate the capsule of:",
+   "correct": "Cryptococcus neoformans",
+   "wrong": [
+    "Mycobacterium leprae",
+    "Treponema pallidum",
+    "Clostridium tetani"
+   ],
+   "explain": "The capsule appears as a clear halo against the dark background.",
+   "src": "new"
+  },
+  {
+   "id": "N130",
+   "subject": "micro",
+   "q": "Endospores are formed by:",
+   "correct": "Bacillus and Clostridium",
+   "wrong": [
+    "Escherichia and Salmonella",
+    "Streptococcus",
+    "Mycoplasma"
+   ],
+   "explain": "Bacillus (aerobic) and Clostridium (anaerobic) form heat-resistant endospores.",
+   "src": "new"
+  },
+  {
+   "id": "N131",
+   "subject": "micro",
+   "q": "Bacteria lacking a cell wall are:",
+   "correct": "Mycoplasma",
+   "wrong": [
+    "Bacillus",
+    "Staphylococcus",
+    "Vibrio"
+   ],
+   "explain": "Mycoplasma have no cell wall, so penicillins do not act on them.",
+   "src": "new"
+  },
+  {
+   "id": "N132",
+   "subject": "micro",
+   "q": "The phase of bacterial growth with maximum rate of division is:",
+   "correct": "Log (exponential) phase",
+   "wrong": [
+    "Lag phase",
+    "Stationary phase",
+    "Death phase"
+   ],
+   "explain": "Cells divide at a constant, maximal rate in log phase.",
+   "src": "new"
+  },
+  {
+   "id": "N133",
+   "subject": "micro",
+   "q": "Bacteria that grow best at 20–45 °C are called:",
+   "correct": "Mesophiles",
+   "wrong": [
+    "Psychrophiles",
+    "Thermophiles",
+    "Hyperthermophiles"
+   ],
+   "explain": "Most human pathogens are mesophiles (optimum ~37 °C).",
+   "src": "new"
+  },
+  {
+   "id": "N134",
+   "subject": "micro",
+   "q": "Organisms that cannot tolerate oxygen are:",
+   "correct": "Obligate anaerobes",
+   "wrong": [
+    "Obligate aerobes",
+    "Facultative anaerobes",
+    "Microaerophiles"
+   ],
+   "explain": "Oxygen is toxic to obligate anaerobes like Clostridium.",
+   "src": "new"
+  },
+  {
+   "id": "N135",
+   "subject": "micro",
+   "q": "A medium that allows growth of certain organisms while inhibiting others is:",
+   "correct": "Selective medium",
+   "wrong": [
+    "Enriched medium",
+    "Basal medium",
+    "Transport medium"
+   ],
+   "explain": "E.g. MacConkey's bile salts inhibit gram-positives.",
+   "src": "new"
+  },
+  {
+   "id": "N136",
+   "subject": "micro",
+   "q": "MacConkey agar differentiates bacteria on the basis of:",
+   "correct": "Lactose fermentation",
+   "wrong": [
+    "Hemolysis",
+    "Motility",
+    "Spore formation"
+   ],
+   "explain": "Lactose fermenters form pink colonies.",
+   "src": "new"
+  },
+  {
+   "id": "N137",
+   "subject": "micro",
+   "q": "Blood agar is used to observe:",
+   "correct": "Hemolysis patterns",
+   "wrong": [
+    "Lactose fermentation",
+    "Acid-fast property",
+    "Spore formation"
+   ],
+   "explain": "α, β and γ hemolysis help identify streptococci.",
+   "src": "new"
+  },
+  {
+   "id": "N138",
+   "subject": "micro",
+   "q": "Solidifying agent in culture media is:",
+   "correct": "Agar",
+   "wrong": [
+    "Gelatin only",
+    "Starch",
+    "Peptone"
+   ],
+   "explain": "Agar (from seaweed) melts ~85 °C and sets ~40 °C, and most microbes cannot digest it.",
+   "src": "new"
+  },
+  {
+   "id": "N139",
+   "subject": "micro",
+   "q": "Viruses are:",
+   "correct": "Obligate intracellular parasites",
+   "wrong": [
+    "Free-living cells",
+    "Bacteria without walls",
+    "Fungi"
+   ],
+   "explain": "Viruses replicate only inside living host cells.",
+   "src": "new"
+  },
+  {
+   "id": "N140",
+   "subject": "micro",
+   "q": "Bacteriophages infect:",
+   "correct": "Bacteria",
+   "wrong": [
+    "Fungi",
+    "Plants only",
+    "Protozoa"
+   ],
+   "explain": "Phages are viruses that attack bacteria.",
+   "src": "new"
+  },
+  {
+   "id": "N141",
+   "subject": "micro",
+   "q": "Fungal cell membrane contains:",
+   "correct": "Ergosterol",
+   "wrong": [
+    "Cholesterol",
+    "Peptidoglycan",
+    "Lipopolysaccharide"
+   ],
+   "explain": "Ergosterol is the target of azoles and amphotericin B.",
+   "src": "new"
+  },
+  {
+   "id": "N142",
+   "subject": "micro",
+   "q": "Yeast reproduces asexually mainly by:",
+   "correct": "Budding",
+   "wrong": [
+    "Binary fission",
+    "Conjugation",
+    "Sporangia only"
+   ],
+   "explain": "Saccharomyces reproduces by budding.",
+   "src": "new"
+  },
+  {
+   "id": "N143",
+   "subject": "micro",
+   "q": "Sterility testing methods in the pharmacopoeia include:",
+   "correct": "Membrane filtration and direct inoculation",
+   "wrong": [
+    "Gram staining only",
+    "LAL test",
+    "Ring test"
+   ],
+   "explain": "Sterility test: membrane filtration or direct inoculation into media.",
+   "src": "new"
+  },
+  {
+   "id": "N144",
+   "subject": "micro",
+   "q": "Fluid thioglycollate medium in sterility testing detects:",
+   "correct": "Anaerobic and aerobic bacteria",
+   "wrong": [
+    "Fungi only",
+    "Viruses",
+    "Endotoxins"
+   ],
+   "explain": "Thioglycollate supports anaerobes (and aerobes); soybean–casein digest is for fungi and aerobes.",
+   "src": "new"
+  },
+  {
+   "id": "N145",
+   "subject": "micro",
+   "q": "Soybean–casein digest medium in sterility testing is incubated at:",
+   "correct": "20–25 °C",
+   "wrong": [
+    "30–35 °C",
+    "55 °C",
+    "4 °C"
+   ],
+   "explain": "SCDM at 20–25 °C (fungi, aerobes); thioglycollate at 30–35 °C.",
+   "src": "new"
+  },
+  {
+   "id": "N146",
+   "subject": "micro",
+   "q": "Chemical indicator tape that changes colour after autoclaving shows that:",
+   "correct": "The item was exposed to sterilizing conditions (not proof of sterility)",
+   "wrong": [
+    "The item is definitely sterile",
+    "Spores were killed",
+    "Endotoxins are absent"
+   ],
+   "explain": "Indicator tapes confirm exposure only; biological indicators prove lethality.",
+   "src": "new"
+  },
+  {
+   "id": "N147",
+   "subject": "micro",
+   "q": "Biological indicator for dry heat and ethylene oxide sterilization is:",
+   "correct": "Bacillus atrophaeus (B. subtilis var. niger)",
+   "wrong": [
+    "Geobacillus stearothermophilus",
+    "Bacillus pumilus",
+    "Staphylococcus aureus"
+   ],
+   "explain": "B. atrophaeus spores are used for dry heat and EtO.",
+   "src": "new"
+  },
+  {
+   "id": "N148",
+   "subject": "micro",
+   "q": "Bacillus pumilus spores are used to validate:",
+   "correct": "Radiation sterilization",
+   "wrong": [
+    "Autoclaving",
+    "Filtration",
+    "Boiling"
+   ],
+   "explain": "B. pumilus is resistant to ionizing radiation.",
+   "src": "new"
+  },
+  {
+   "id": "N149",
+   "subject": "micro",
+   "q": "Membrane filters used for sterilization have pore size:",
+   "correct": "0.22 µm",
+   "wrong": [
+    "2 µm",
+    "22 µm",
+    "0.022 mm"
+   ],
+   "explain": "0.22 µm (or 0.2) filters retain bacteria.",
+   "src": "new"
+  },
+  {
+   "id": "N150",
+   "subject": "micro",
+   "q": "Phenol coefficient test (Rideal–Walker) compares a disinfectant with phenol against:",
+   "correct": "Salmonella typhi",
+   "wrong": [
+    "E. coli",
+    "Staphylococcus epidermidis",
+    "Candida"
+   ],
+   "explain": "R-W test uses S. typhi; Chick–Martin adds organic matter.",
+   "src": "new"
+  },
+  {
+   "id": "N151",
+   "subject": "micro",
+   "q": "The D-value in sterilization is the time needed to kill:",
+   "correct": "90% of the microbial population",
+   "wrong": [
+    "50% of microbes",
+    "100% of spores",
+    "All vegetative cells"
+   ],
+   "explain": "D-value = time at a given temperature for a 1-log (90%) reduction.",
+   "src": "new"
+  },
+  {
+   "id": "N152",
+   "subject": "micro",
+   "q": "Tyndallization involves:",
+   "correct": "Steaming at 100 °C on three successive days",
+   "wrong": [
+    "Autoclaving once",
+    "Filtration",
+    "Dry heat at 160 °C"
+   ],
+   "explain": "Intermittent steaming lets spores germinate between heatings.",
+   "src": "new"
+  },
+  {
+   "id": "N153",
+   "subject": "micro",
+   "q": "Microbiological assay of antibiotics by cylinder-plate method measures:",
+   "correct": "Zone of inhibition",
+   "wrong": [
+    "Turbidity only",
+    "pH change",
+    "Gas formation"
+   ],
+   "explain": "The diameter of the inhibition zone relates to potency.",
+   "src": "new"
+  },
+  {
+   "id": "N154",
+   "subject": "micro",
+   "q": "Which microbe is the test organism in the microbial assay of penicillin (cylinder-plate)?",
+   "correct": "Staphylococcus aureus",
+   "wrong": [
+    "Lactobacillus casei",
+    "Candida albicans",
+    "Aspergillus niger"
+   ],
+   "explain": "Penicillin potency is assayed against a sensitive S. aureus strain.",
+   "src": "new"
+  },
+  {
+   "id": "N155",
+   "subject": "micro",
+   "q": "Laminar air flow benches use ____ filters.",
+   "correct": "HEPA",
+   "wrong": [
+    "Paper",
+    "Cotton",
+    "Charcoal only"
+   ],
+   "explain": "HEPA filters remove ≥99.97% of 0.3 µm particles.",
+   "src": "new"
+  },
+  {
+   "id": "N156",
+   "subject": "micro",
+   "q": "ISO Class 5 clean area corresponds roughly to old:",
+   "correct": "Class 100",
+   "wrong": [
+    "Class 10,000",
+    "Class 100,000",
+    "Class 1 million"
+   ],
+   "explain": "Class 100 = ≤100 particles ≥0.5 µm per cubic foot.",
+   "src": "new"
+  },
+  {
+   "id": "N157",
+   "subject": "micro",
+   "q": "Lysozyme acts by breaking:",
+   "correct": "β-1,4 linkage between NAM and NAG in peptidoglycan",
+   "wrong": [
+    "Peptide bonds in proteins",
+    "DNA strands",
+    "Ester bonds in lipids"
+   ],
+   "explain": "Lysozyme hydrolyses the glycan backbone of the cell wall.",
+   "src": "new"
+  },
+  {
+   "id": "N158",
+   "subject": "micro",
+   "q": "Cell wall of gram-negative bacteria contains an outer membrane with:",
+   "correct": "Lipopolysaccharide",
+   "wrong": [
+    "Teichoic acid",
+    "Mycolic acid",
+    "Chitin"
+   ],
+   "explain": "LPS (endotoxin) is in the outer membrane; teichoic acids are in gram-positives.",
+   "src": "new"
+  },
+  {
+   "id": "N159",
+   "subject": "micro",
+   "q": "Flagella arranged all over the bacterial surface are called:",
+   "correct": "Peritrichous",
+   "wrong": [
+    "Monotrichous",
+    "Lophotrichous",
+    "Amphitrichous"
+   ],
+   "explain": "Peritrichous flagella, e.g. E. coli and Salmonella.",
+   "src": "new"
+  },
+  {
+   "id": "N160",
+   "subject": "micro",
+   "q": "Counting viable bacteria as colonies grown on agar plates is called:",
+   "correct": "Plate count (CFU)",
+   "wrong": [
+    "Haemocytometer count",
+    "Turbidimetry",
+    "Dry weight method"
+   ],
+   "explain": "Standard plate count gives colony-forming units, i.e. living cells only.",
+   "src": "new"
+  },
+  {
+   "id": "N161",
+   "subject": "engg",
+   "q": "Flow is laminar in a pipe when Reynolds number is below about:",
+   "correct": "2000",
+   "wrong": [
+    "4000",
+    "10000",
+    "100"
+   ],
+   "explain": "Re < 2000 laminar, 2000–4000 transitional, > 4000 turbulent.",
+   "src": "new"
+  },
+  {
+   "id": "N162",
+   "subject": "engg",
+   "q": "Bernoulli's theorem is based on the principle of conservation of:",
+   "correct": "Energy",
+   "wrong": [
+    "Mass only",
+    "Momentum only",
+    "Charge"
+   ],
+   "explain": "Total head (pressure + kinetic + potential) stays constant along a streamline.",
+   "src": "new"
+  },
+  {
+   "id": "N163",
+   "subject": "engg",
+   "q": "Orifice meter and venturi meter measure:",
+   "correct": "Flow rate of fluids",
+   "wrong": [
+    "Viscosity",
+    "Temperature",
+    "Humidity"
+   ],
+   "explain": "Both use pressure drop across a constriction to find flow rate.",
+   "src": "new"
+  },
+  {
+   "id": "N164",
+   "subject": "engg",
+   "q": "Rotameter is a:",
+   "correct": "Variable area flow meter",
+   "wrong": [
+    "Variable head meter",
+    "Pressure gauge",
+    "Thermometer"
+   ],
+   "explain": "The float rises in a tapered tube; area changes, pressure drop stays constant.",
+   "src": "new"
+  },
+  {
+   "id": "N165",
+   "subject": "engg",
+   "q": "Manometers measure:",
+   "correct": "Pressure difference",
+   "wrong": [
+    "Flow velocity directly",
+    "Density",
+    "Viscosity"
+   ],
+   "explain": "U-tube manometers read pressure difference from the liquid column height.",
+   "src": "new"
+  },
+  {
+   "id": "N166",
+   "subject": "engg",
+   "q": "Ball mill works mainly on the principle of:",
+   "correct": "Impact and attrition",
+   "wrong": [
+    "Cutting only",
+    "Compression only",
+    "Shear by blades"
+   ],
+   "explain": "Falling balls give impact; rolling balls give attrition.",
+   "src": "new"
+  },
+  {
+   "id": "N167",
+   "subject": "engg",
+   "q": "Critical speed of a ball mill is the speed at which:",
+   "correct": "Balls stick to the wall and no grinding occurs",
+   "wrong": [
+    "Grinding is maximum",
+    "Balls stop moving",
+    "The mill reverses"
+   ],
+   "explain": "Operate at about 65–75% of critical speed for best grinding.",
+   "src": "new"
+  },
+  {
+   "id": "N168",
+   "subject": "engg",
+   "q": "Fluid energy mill (jet mill) is suitable for:",
+   "correct": "Very fine grinding of heat-sensitive drugs",
+   "wrong": [
+    "Coarse crushing of hard rocks",
+    "Cutting fibrous herbs",
+    "Wet slurries only"
+   ],
+   "explain": "Air jets cause particle collisions; expansion cools, so heat-labile drugs survive.",
+   "src": "new"
+  },
+  {
+   "id": "N169",
+   "subject": "engg",
+   "q": "Hammer mill works on the principle of:",
+   "correct": "Impact",
+   "wrong": [
+    "Attrition only",
+    "Compression",
+    "Cutting"
+   ],
+   "explain": "Rotating hammers strike particles at high speed.",
+   "src": "new"
+  },
+  {
+   "id": "N170",
+   "subject": "engg",
+   "q": "Rittinger's law states that energy for size reduction is proportional to:",
+   "correct": "New surface area produced",
+   "wrong": [
+    "Reduction ratio",
+    "Log of size ratio",
+    "Weight of material"
+   ],
+   "explain": "Rittinger: E ∝ (1/D2 − 1/D1), best for fine grinding.",
+   "src": "new"
+  },
+  {
+   "id": "N171",
+   "subject": "engg",
+   "q": "Bond's law for size reduction says energy is proportional to:",
+   "correct": "1/√(product size) − 1/√(feed size)",
+   "wrong": [
+    "New surface area only",
+    "log of size ratio",
+    "Square of particle size"
+   ],
+   "explain": "Bond's law sits between Kick's (coarse) and Rittinger's (fine).",
+   "src": "new"
+  },
+  {
+   "id": "N172",
+   "subject": "engg",
+   "q": "Sieve number refers to:",
+   "correct": "Number of meshes per linear inch (or per 25.4 mm)",
+   "wrong": [
+    "Diameter of the sieve",
+    "Weight of the sieve",
+    "Wire thickness"
+   ],
+   "explain": "Higher sieve number = finer openings.",
+   "src": "new"
+  },
+  {
+   "id": "N173",
+   "subject": "engg",
+   "q": "Andreasen pipette is used to determine:",
+   "correct": "Particle size by sedimentation",
+   "wrong": [
+    "Viscosity",
+    "Moisture content",
+    "Surface tension"
+   ],
+   "explain": "It samples a settling suspension; Stokes' law gives particle size.",
+   "src": "new"
+  },
+  {
+   "id": "N174",
+   "subject": "engg",
+   "q": "Stokes' law gives the:",
+   "correct": "Settling velocity of particles in a fluid",
+   "wrong": [
+    "Rate of heat transfer",
+    "Rate of drying",
+    "Filtration rate"
+   ],
+   "explain": "v = d²(ρs − ρ)g / 18η.",
+   "src": "new"
+  },
+  {
+   "id": "N175",
+   "subject": "engg",
+   "q": "Heat transfer by direct molecular contact in solids is:",
+   "correct": "Conduction",
+   "wrong": [
+    "Convection",
+    "Radiation",
+    "Evaporation"
+   ],
+   "explain": "Conduction follows Fourier's law.",
+   "src": "new"
+  },
+  {
+   "id": "N176",
+   "subject": "engg",
+   "q": "Thermal conductivity is highest for:",
+   "correct": "Copper",
+   "wrong": [
+    "Glass",
+    "Air",
+    "Water"
+   ],
+   "explain": "Metals like copper conduct heat far better than glass, water or air.",
+   "src": "new"
+  },
+  {
+   "id": "N177",
+   "subject": "engg",
+   "q": "Stefan–Boltzmann law deals with heat transfer by:",
+   "correct": "Radiation",
+   "wrong": [
+    "Conduction",
+    "Convection",
+    "Boiling only"
+   ],
+   "explain": "Radiant energy ∝ T⁴ (absolute temperature).",
+   "src": "new"
+  },
+  {
+   "id": "N178",
+   "subject": "engg",
+   "q": "A perfect black body has emissivity equal to:",
+   "correct": "1",
+   "wrong": [
+    "0",
+    "0.5",
+    "Infinity"
+   ],
+   "explain": "A black body absorbs and emits all radiation; emissivity = 1.",
+   "src": "new"
+  },
+  {
+   "id": "N179",
+   "subject": "engg",
+   "q": "Fick's law is related to:",
+   "correct": "Diffusion (mass transfer)",
+   "wrong": [
+    "Heat conduction",
+    "Fluid flow",
+    "Size reduction"
+   ],
+   "explain": "Rate of diffusion ∝ concentration gradient.",
+   "src": "new"
+  },
+  {
+   "id": "N180",
+   "subject": "engg",
+   "q": "Evaporator commonly used for heat-sensitive, foaming liquids is:",
+   "correct": "Climbing/falling film evaporator",
+   "wrong": [
+    "Steam-jacketed open pan",
+    "Evaporating dish on flame",
+    "Horizontal tube evaporator only"
+   ],
+   "explain": "Film evaporators give a very short contact time.",
+   "src": "new"
+  },
+  {
+   "id": "N181",
+   "subject": "engg",
+   "q": "Moisture content that remains in a solid at equilibrium with surrounding air is:",
+   "correct": "Equilibrium moisture content",
+   "wrong": [
+    "Free moisture content",
+    "Bound water",
+    "Critical moisture"
+   ],
+   "explain": "Below EMC no further drying is possible at that humidity.",
+   "src": "new"
+  },
+  {
+   "id": "N182",
+   "subject": "engg",
+   "q": "In the drying rate curve, the constant rate period ends at the:",
+   "correct": "Critical moisture content",
+   "wrong": [
+    "Equilibrium moisture content",
+    "Initial moisture",
+    "Zero moisture"
+   ],
+   "explain": "After critical moisture, the falling rate period begins.",
+   "src": "new"
+  },
+  {
+   "id": "N183",
+   "subject": "engg",
+   "q": "Spray dryer is preferred for:",
+   "correct": "Heat-sensitive liquids/slurries needing quick drying",
+   "wrong": [
+    "Drying large crystals slowly",
+    "Drying wet granules in trays",
+    "Freeze-drying vaccines"
+   ],
+   "explain": "Fine droplets dry in seconds, giving free-flowing spherical particles.",
+   "src": "new"
+  },
+  {
+   "id": "N184",
+   "subject": "engg",
+   "q": "Fluidized bed dryer works best when the airflow:",
+   "correct": "Keeps particles suspended",
+   "wrong": [
+    "Is completely stopped",
+    "Flows only over the top",
+    "Is replaced by vacuum"
+   ],
+   "explain": "Hot air lifts granules, giving rapid, uniform drying.",
+   "src": "new"
+  },
+  {
+   "id": "N185",
+   "subject": "engg",
+   "q": "Freeze drying removes water by:",
+   "correct": "Sublimation",
+   "wrong": [
+    "Evaporation at high temperature",
+    "Filtration",
+    "Centrifugation"
+   ],
+   "explain": "Ice goes directly to vapour under vacuum.",
+   "src": "new"
+  },
+  {
+   "id": "N186",
+   "subject": "engg",
+   "q": "Fractional distillation is used to separate liquids whose boiling points:",
+   "correct": "Are close to each other",
+   "wrong": [
+    "Differ by more than 100 °C only",
+    "Are identical",
+    "Are above 500 °C"
+   ],
+   "explain": "The column gives many vaporization–condensation cycles.",
+   "src": "new"
+  },
+  {
+   "id": "N187",
+   "subject": "engg",
+   "q": "Steam distillation is used for:",
+   "correct": "Volatile oils immiscible with water",
+   "wrong": [
+    "Ionic salts",
+    "Proteins",
+    "Sugars"
+   ],
+   "explain": "It lowers distillation temperature for heat-sensitive volatile oils.",
+   "src": "new"
+  },
+  {
+   "id": "N188",
+   "subject": "engg",
+   "q": "Vacuum (reduced pressure) distillation is used for:",
+   "correct": "Thermolabile substances",
+   "wrong": [
+    "Gases",
+    "Inorganic salts",
+    "Water only"
+   ],
+   "explain": "Lower pressure lowers the boiling point.",
+   "src": "new"
+  },
+  {
+   "id": "N189",
+   "subject": "engg",
+   "q": "Darcy's law is the basis of:",
+   "correct": "Filtration",
+   "wrong": [
+    "Mixing",
+    "Drying",
+    "Crystallization"
+   ],
+   "explain": "Flow rate through a porous bed ∝ pressure drop and permeability.",
+   "src": "new"
+  },
+  {
+   "id": "N190",
+   "subject": "engg",
+   "q": "A filter aid commonly used is:",
+   "correct": "Diatomaceous earth (kieselguhr)",
+   "wrong": [
+    "Magnesium stearate",
+    "Lactose",
+    "Acacia"
+   ],
+   "explain": "Diatomite forms a porous, incompressible cake.",
+   "src": "new"
+  },
+  {
+   "id": "N191",
+   "subject": "engg",
+   "q": "Centrifugation separates particles based on:",
+   "correct": "Density difference under centrifugal force",
+   "wrong": [
+    "Colour",
+    "Electric charge only",
+    "Boiling point"
+   ],
+   "explain": "Centrifugal force accelerates sedimentation.",
+   "src": "new"
+  },
+  {
+   "id": "N192",
+   "subject": "engg",
+   "q": "Supersaturation is necessary for:",
+   "correct": "Crystallization",
+   "wrong": [
+    "Distillation",
+    "Filtration",
+    "Sieving"
+   ],
+   "explain": "Miers' theory: nucleation and growth need supersaturation.",
+   "src": "new"
+  },
+  {
+   "id": "N193",
+   "subject": "engg",
+   "q": "Miers' theory relates to:",
+   "correct": "Crystallization",
+   "wrong": [
+    "Size reduction",
+    "Drying",
+    "Filtration"
+   ],
+   "explain": "Miers described solubility/supersolubility curves.",
+   "src": "new"
+  },
+  {
+   "id": "N194",
+   "subject": "engg",
+   "q": "Mixer used for dry powders by tumbling is:",
+   "correct": "V-blender (twin shell)",
+   "wrong": [
+    "Propeller mixer",
+    "Turbine mixer",
+    "Colloid mill"
+   ],
+   "explain": "Tumbling mixers suit free-flowing powders.",
+   "src": "new"
+  },
+  {
+   "id": "N195",
+   "subject": "engg",
+   "q": "Sigma-blade mixer is mainly used for:",
+   "correct": "Wet granulation masses and pastes",
+   "wrong": [
+    "Low viscosity liquids",
+    "Gases",
+    "Dry fine powders only"
+   ],
+   "explain": "Heavy blades knead cohesive masses.",
+   "src": "new"
+  },
+  {
+   "id": "N196",
+   "subject": "engg",
+   "q": "Silverson mixer–homogenizer works on:",
+   "correct": "High shear (rotor–stator)",
+   "wrong": [
+    "Tumbling",
+    "Air jets",
+    "Magnetic stirring"
+   ],
+   "explain": "Rotor–stator high shear for emulsions and suspensions.",
+   "src": "new"
+  },
+  {
+   "id": "N197",
+   "subject": "engg",
+   "q": "Corrosion is mainly an ____ process.",
+   "correct": "Electrochemical",
+   "wrong": [
+    "Purely mechanical",
+    "Biological only",
+    "Radioactive"
+   ],
+   "explain": "Anodic and cathodic reactions occur on the metal surface.",
+   "src": "new"
+  },
+  {
+   "id": "N198",
+   "subject": "engg",
+   "q": "Stainless steel resists corrosion mainly because of:",
+   "correct": "Chromium forming a passive oxide layer",
+   "wrong": [
+    "Its high carbon content",
+    "Copper coating",
+    "Lead content"
+   ],
+   "explain": "≥10.5% chromium forms a protective Cr2O3 film.",
+   "src": "new"
+  },
+  {
+   "id": "N199",
+   "subject": "engg",
+   "q": "Cathodic protection against corrosion uses:",
+   "correct": "A sacrificial anode like zinc or magnesium",
+   "wrong": [
+    "An acid coating",
+    "Higher temperature",
+    "Copper plating only"
+   ],
+   "explain": "The more active metal corrodes instead of the structure.",
+   "src": "new"
+  },
+  {
+   "id": "N200",
+   "subject": "engg",
+   "q": "Dimensionless number relating heat transfer by convection to conduction is:",
+   "correct": "Nusselt number",
+   "wrong": [
+    "Reynolds number",
+    "Froude number",
+    "Mach number"
+   ],
+   "explain": "Nu = hL/k.",
+   "src": "new"
+  },
+  {
+   "id": "N201",
+   "subject": "pharmacology",
+   "q": "Drug that is a non-selective β-blocker:",
+   "correct": "Propranolol",
+   "wrong": [
+    "Atenolol",
+    "Metoprolol",
+    "Bisoprolol"
+   ],
+   "explain": "Propranolol blocks β1 and β2; atenolol, metoprolol and bisoprolol are β1-selective.",
+   "src": "new"
+  },
+  {
+   "id": "N202",
+   "subject": "pharmacology",
+   "q": "Antidote for paracetamol poisoning is:",
+   "correct": "N-acetylcysteine",
+   "wrong": [
+    "Naloxone",
+    "Atropine",
+    "Flumazenil"
+   ],
+   "explain": "NAC replenishes glutathione to detoxify NAPQI.",
+   "src": "new"
+  },
+  {
+   "id": "N203",
+   "subject": "pharmacology",
+   "q": "Antidote for opioid overdose is:",
+   "correct": "Naloxone",
+   "wrong": [
+    "Physostigmine",
+    "Protamine",
+    "Vitamin K"
+   ],
+   "explain": "Naloxone is a competitive opioid receptor antagonist.",
+   "src": "new"
+  },
+  {
+   "id": "N204",
+   "subject": "pharmacology",
+   "q": "Antidote for benzodiazepine overdose is:",
+   "correct": "Flumazenil",
+   "wrong": [
+    "Naloxone",
+    "Atropine",
+    "Pralidoxime"
+   ],
+   "explain": "Flumazenil antagonizes the benzodiazepine site on GABA-A.",
+   "src": "new"
+  },
+  {
+   "id": "N205",
+   "subject": "pharmacology",
+   "q": "Antidote for heparin overdose is:",
+   "correct": "Protamine sulphate",
+   "wrong": [
+    "Vitamin K",
+    "Desferrioxamine",
+    "Dimercaprol"
+   ],
+   "explain": "Protamine (basic) neutralizes acidic heparin.",
+   "src": "new"
+  },
+  {
+   "id": "N206",
+   "subject": "pharmacology",
+   "q": "Antidote for warfarin overdose is:",
+   "correct": "Vitamin K",
+   "wrong": [
+    "Protamine sulphate",
+    "N-acetylcysteine",
+    "Atropine"
+   ],
+   "explain": "Vitamin K restores synthesis of clotting factors II, VII, IX, X.",
+   "src": "new"
+  },
+  {
+   "id": "N207",
+   "subject": "pharmacology",
+   "q": "Organophosphate poisoning is treated with atropine and:",
+   "correct": "Pralidoxime",
+   "wrong": [
+    "Neostigmine",
+    "Physostigmine",
+    "Naloxone"
+   ],
+   "explain": "Pralidoxime reactivates phosphorylated acetylcholinesterase if given early.",
+   "src": "new"
+  },
+  {
+   "id": "N208",
+   "subject": "pharmacology",
+   "q": "Aspirin irreversibly inhibits:",
+   "correct": "Cyclooxygenase (COX)",
+   "wrong": [
+    "Lipoxygenase",
+    "Phospholipase A2",
+    "Thromboxane receptor"
+   ],
+   "explain": "Aspirin acetylates COX; platelets cannot make new enzyme.",
+   "src": "new"
+  },
+  {
+   "id": "N209",
+   "subject": "pharmacology",
+   "q": "Drug of choice for anaphylactic shock is:",
+   "correct": "Adrenaline (epinephrine)",
+   "wrong": [
+    "Antihistamine",
+    "Hydrocortisone",
+    "Salbutamol"
+   ],
+   "explain": "IM adrenaline reverses bronchospasm and hypotension.",
+   "src": "new"
+  },
+  {
+   "id": "N210",
+   "subject": "pharmacology",
+   "q": "Bioavailability of a drug given intravenously is:",
+   "correct": "100%",
+   "wrong": [
+    "50%",
+    "0%",
+    "Depends on food"
+   ],
+   "explain": "IV dosing places the whole dose into systemic circulation.",
+   "src": "new"
+  },
+  {
+   "id": "N211",
+   "subject": "pharmacology",
+   "q": "First-pass metabolism mainly occurs in the:",
+   "correct": "Liver",
+   "wrong": [
+    "Kidney",
+    "Lungs",
+    "Skin"
+   ],
+   "explain": "Oral drugs pass through the portal circulation to the liver before reaching the system.",
+   "src": "new"
+  },
+  {
+   "id": "N212",
+   "subject": "pharmacology",
+   "q": "Half-life of a drug following first-order kinetics:",
+   "correct": "Is constant regardless of dose",
+   "wrong": [
+    "Increases with dose",
+    "Decreases with dose",
+    "Is zero"
+   ],
+   "explain": "t½ = 0.693/k for first-order elimination.",
+   "src": "new"
+  },
+  {
+   "id": "N213",
+   "subject": "pharmacology",
+   "q": "A drug following zero-order kinetics at high doses is:",
+   "correct": "Phenytoin",
+   "wrong": [
+    "Penicillin",
+    "Paracetamol at normal dose",
+    "Atenolol"
+   ],
+   "explain": "Phenytoin, ethanol and high-dose aspirin show saturation (zero-order) kinetics.",
+   "src": "new"
+  },
+  {
+   "id": "N214",
+   "subject": "pharmacology",
+   "q": "Number of half-lives needed to reach about 97% of steady state:",
+   "correct": "5",
+   "wrong": [
+    "1",
+    "2",
+    "10"
+   ],
+   "explain": "About 4–5 half-lives reach steady state.",
+   "src": "new"
+  },
+  {
+   "id": "N215",
+   "subject": "pharmacology",
+   "q": "Loading dose depends mainly on:",
+   "correct": "Volume of distribution",
+   "wrong": [
+    "Clearance only",
+    "Half-life only",
+    "pKa"
+   ],
+   "explain": "Loading dose = target concentration × Vd / F.",
+   "src": "new"
+  },
+  {
+   "id": "N216",
+   "subject": "pharmacology",
+   "q": "Maintenance dose depends mainly on:",
+   "correct": "Clearance",
+   "wrong": [
+    "Volume of distribution",
+    "Protein binding only",
+    "Molecular weight"
+   ],
+   "explain": "Maintenance dose rate = target concentration × CL / F.",
+   "src": "new"
+  },
+  {
+   "id": "N217",
+   "subject": "pharmacology",
+   "q": "Therapeutic index is the ratio of:",
+   "correct": "TD50 (or LD50) to ED50",
+   "wrong": [
+    "ED50 to LD50",
+    "Cmax to Cmin",
+    "AUC to dose"
+   ],
+   "explain": "A higher therapeutic index means a safer drug.",
+   "src": "new"
+  },
+  {
+   "id": "N218",
+   "subject": "pharmacology",
+   "q": "A drug with a narrow therapeutic index is:",
+   "correct": "Digoxin",
+   "wrong": [
+    "Amoxicillin",
+    "Paracetamol",
+    "Cetirizine"
+   ],
+   "explain": "Digoxin, lithium and warfarin need careful monitoring.",
+   "src": "new"
+  },
+  {
+   "id": "N219",
+   "subject": "pharmacology",
+   "q": "An agonist that produces less than maximal response even at full receptor occupancy is a:",
+   "correct": "Partial agonist",
+   "wrong": [
+    "Full agonist",
+    "Inverse agonist",
+    "Competitive antagonist"
+   ],
+   "explain": "E.g. buprenorphine at μ-opioid receptors.",
+   "src": "new"
+  },
+  {
+   "id": "N220",
+   "subject": "pharmacology",
+   "q": "Competitive antagonism shifts the agonist dose-response curve:",
+   "correct": "To the right without lowering maximum",
+   "wrong": [
+    "Downward with lower maximum",
+    "To the left",
+    "Not at all"
+   ],
+   "explain": "A higher agonist dose can overcome a competitive antagonist.",
+   "src": "new"
+  },
+  {
+   "id": "N221",
+   "subject": "pharmacology",
+   "q": "Insulin acts through which receptor type?",
+   "correct": "Receptor tyrosine kinase",
+   "wrong": [
+    "G-protein coupled receptor",
+    "Ligand-gated ion channel",
+    "Nuclear receptor"
+   ],
+   "explain": "The insulin receptor has intrinsic tyrosine kinase activity.",
+   "src": "new"
+  },
+  {
+   "id": "N222",
+   "subject": "pharmacology",
+   "q": "Nicotinic acetylcholine receptors are:",
+   "correct": "Ligand-gated ion channels",
+   "wrong": [
+    "G-protein coupled receptors",
+    "Enzyme-linked receptors",
+    "Nuclear receptors"
+   ],
+   "explain": "Muscarinic receptors are GPCRs; nicotinic ones are ion channels.",
+   "src": "new"
+  },
+  {
+   "id": "N223",
+   "subject": "pharmacology",
+   "q": "Steroid hormones act via:",
+   "correct": "Intracellular (nuclear) receptors",
+   "wrong": [
+    "Ion channels",
+    "Tyrosine kinases",
+    "Surface GPCRs only"
+   ],
+   "explain": "They regulate gene transcription.",
+   "src": "new"
+  },
+  {
+   "id": "N224",
+   "subject": "pharmacology",
+   "q": "Atropine is a:",
+   "correct": "Muscarinic receptor antagonist",
+   "wrong": [
+    "Nicotinic agonist",
+    "Cholinesterase inhibitor",
+    "β-agonist"
+   ],
+   "explain": "Atropine blocks muscarinic receptors, causing dry mouth, tachycardia and mydriasis.",
+   "src": "new"
+  },
+  {
+   "id": "N225",
+   "subject": "pharmacology",
+   "q": "Neostigmine is used in:",
+   "correct": "Myasthenia gravis",
+   "wrong": [
+    "Glaucoma due to mydriasis only",
+    "Hypertension",
+    "Asthma"
+   ],
+   "explain": "It inhibits cholinesterase, increasing ACh at the neuromuscular junction.",
+   "src": "new"
+  },
+  {
+   "id": "N226",
+   "subject": "pharmacology",
+   "q": "Salbutamol is a:",
+   "correct": "Selective β2 agonist",
+   "wrong": [
+    "β1 blocker",
+    "α1 agonist",
+    "Muscarinic agonist"
+   ],
+   "explain": "It relaxes bronchial smooth muscle in asthma.",
+   "src": "new"
+  },
+  {
+   "id": "N227",
+   "subject": "pharmacology",
+   "q": "Drug of choice in type 2 diabetes (first line) is usually:",
+   "correct": "Metformin",
+   "wrong": [
+    "Glibenclamide",
+    "Insulin",
+    "Acarbose"
+   ],
+   "explain": "Metformin lowers hepatic glucose output and rarely causes hypoglycaemia.",
+   "src": "new"
+  },
+  {
+   "id": "N228",
+   "subject": "pharmacology",
+   "q": "Penicillins act by inhibiting:",
+   "correct": "Bacterial cell wall synthesis",
+   "wrong": [
+    "Protein synthesis",
+    "DNA gyrase",
+    "Folic acid synthesis"
+   ],
+   "explain": "β-lactams block transpeptidase (PBPs) in peptidoglycan cross-linking.",
+   "src": "new"
+  },
+  {
+   "id": "N229",
+   "subject": "pharmacology",
+   "q": "Fluoroquinolones like ciprofloxacin inhibit:",
+   "correct": "DNA gyrase (topoisomerase II)",
+   "wrong": [
+    "Cell wall synthesis",
+    "50S ribosome",
+    "Cell membrane"
+   ],
+   "explain": "They block bacterial DNA gyrase and topoisomerase IV.",
+   "src": "new"
+  },
+  {
+   "id": "N230",
+   "subject": "pharmacology",
+   "q": "Tetracyclines inhibit protein synthesis by binding to:",
+   "correct": "30S ribosomal subunit",
+   "wrong": [
+    "50S ribosomal subunit",
+    "Cell wall",
+    "DNA polymerase"
+   ],
+   "explain": "They prevent aminoacyl-tRNA attachment at the 30S subunit.",
+   "src": "new"
+  },
+  {
+   "id": "N231",
+   "subject": "pharmacology",
+   "q": "Macrolides such as erythromycin bind to:",
+   "correct": "50S ribosomal subunit",
+   "wrong": [
+    "30S ribosomal subunit",
+    "DNA gyrase",
+    "PBPs"
+   ],
+   "explain": "They block translocation at the 50S subunit.",
+   "src": "new"
+  },
+  {
+   "id": "N232",
+   "subject": "pharmacology",
+   "q": "Sulfonamides act by inhibiting:",
+   "correct": "Dihydropteroate synthase",
+   "wrong": [
+    "Dihydrofolate reductase",
+    "Transpeptidase",
+    "RNA polymerase"
+   ],
+   "explain": "They compete with PABA; trimethoprim inhibits DHFR.",
+   "src": "new"
+  },
+  {
+   "id": "N233",
+   "subject": "pharmacology",
+   "q": "Rifampicin inhibits:",
+   "correct": "Bacterial DNA-dependent RNA polymerase",
+   "wrong": [
+    "Cell wall synthesis",
+    "Protein synthesis at 30S",
+    "Mycolic acid synthesis"
+   ],
+   "explain": "Rifampicin also turns urine and tears orange-red.",
+   "src": "new"
+  },
+  {
+   "id": "N234",
+   "subject": "pharmacology",
+   "q": "Isoniazid mainly inhibits synthesis of:",
+   "correct": "Mycolic acid",
+   "wrong": [
+    "Peptidoglycan",
+    "Folic acid",
+    "Ergosterol"
+   ],
+   "explain": "INH blocks mycolic acid synthesis in mycobacteria.",
+   "src": "new"
+  },
+  {
+   "id": "N235",
+   "subject": "pharmacology",
+   "q": "Peripheral neuropathy due to isoniazid is prevented with:",
+   "correct": "Pyridoxine (vitamin B6)",
+   "wrong": [
+    "Vitamin B12",
+    "Folic acid",
+    "Vitamin C"
+   ],
+   "explain": "INH increases pyridoxine excretion.",
+   "src": "new"
+  },
+  {
+   "id": "N236",
+   "subject": "pharmacology",
+   "q": "Omeprazole acts by inhibiting:",
+   "correct": "H+/K+ ATPase (proton pump)",
+   "wrong": [
+    "H2 receptors",
+    "Muscarinic receptors",
+    "Gastrin release"
+   ],
+   "explain": "PPIs irreversibly block the final step of acid secretion.",
+   "src": "new"
+  },
+  {
+   "id": "N237",
+   "subject": "pharmacology",
+   "q": "Ranitidine/famotidine are:",
+   "correct": "H2 receptor antagonists",
+   "wrong": [
+    "Proton pump inhibitors",
+    "Antacids",
+    "Prostaglandin analogues"
+   ],
+   "explain": "They block histamine H2 receptors on parietal cells.",
+   "src": "new"
+  },
+  {
+   "id": "N238",
+   "subject": "pharmacology",
+   "q": "ACE inhibitors (e.g. enalapril) commonly cause:",
+   "correct": "Dry cough",
+   "wrong": [
+    "Tachycardia",
+    "Hyperglycaemia",
+    "Constipation"
+   ],
+   "explain": "Bradykinin accumulation causes dry cough.",
+   "src": "new"
+  },
+  {
+   "id": "N239",
+   "subject": "pharmacology",
+   "q": "Furosemide is a:",
+   "correct": "Loop diuretic",
+   "wrong": [
+    "Thiazide diuretic",
+    "Potassium-sparing diuretic",
+    "Osmotic diuretic"
+   ],
+   "explain": "It blocks the Na+/K+/2Cl− cotransporter in the loop of Henle.",
+   "src": "new"
+  },
+  {
+   "id": "N240",
+   "subject": "pharmacology",
+   "q": "Spironolactone acts by:",
+   "correct": "Blocking aldosterone receptors",
+   "wrong": [
+    "Inhibiting carbonic anhydrase",
+    "Blocking NKCC2",
+    "Osmotic effect"
+   ],
+   "explain": "It is a potassium-sparing aldosterone antagonist.",
+   "src": "new"
+  }
+ ]
+}

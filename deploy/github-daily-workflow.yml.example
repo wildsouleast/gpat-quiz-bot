@@ -1,0 +1,21 @@
+name: daily-quiz
+# Wakes the free Render server and triggers the 8 PM IST daily quiz (14:30 UTC). Second run is a safety net;
+# the bot sends only once per IST day.
+on:
+  schedule:
+    - cron: "30 14 * * *"
+    - cron: "50 14 * * *"
+  workflow_dispatch: {}
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: wake + trigger daily quiz
+        env:
+          BOT_URL: ${{ secrets.BOT_URL }}
+          CRON_KEY: ${{ secrets.CRON_KEY }}
+        run: |
+          for i in 1 2 3 4; do
+            curl -fsS --max-time 90 "$BOT_URL/ping" && break || sleep 20
+          done
+          curl -fsS --max-time 60 -X POST -H "X-Cron-Key: $CRON_KEY" "$BOT_URL/cron/daily"
